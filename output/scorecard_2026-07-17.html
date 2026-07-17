@@ -110,9 +110,48 @@ h1 {
 
 .zone-metrics {
   display: grid;
-  gap: 1rem;
+  gap: 0.5rem;
+  padding: 0.75rem;
 }
 
+/* Hero layout for MC winner */
+.hero-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-value {
+  font-size: 1.75rem;
+  font-weight: 800;
+  text-align: center;
+  padding: 0.5rem 0.75rem;
+  letter-spacing: -0.02em;
+}
+
+.hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0 0.75rem 0.75rem;
+}
+
+.hero-sub {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+}
+
+.hero-sub-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.hero-sub-label {
+  font-size: 0.625rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
 .metric {
   display: flex;
   flex-direction: column;
@@ -172,7 +211,7 @@ h1 {
                 <div class="metric-label">Total Views</div>
               </div>
               <div class="metric">
-                <div class="metric-value" style="color: #22d3ee">182</div>
+                <div class="metric-value" style="color: #22d3ee">213</div>
                 <div class="metric-label">Uploads</div>
               </div>
               <div class="metric">
@@ -185,31 +224,14 @@ h1 {
               </div>
           </div>
         </div>
-        <div class="zone-card" style="border-color: #34d39940;">
+        <div class="zone-card hero-card" style="border-color: #34d39940;">
           <div class="zone-header" style="border-bottom-color: #34d39930;">
             <span class="zone-icon">🗳️</span>
             <span class="zone-label" style="color: #34d399">MEME CLUB</span>
             <a href="https://6529.io/waves/d23af421-203d-4e37-abc1-4d9df840026c" target="_blank" class="zone-link">↗ wave</a>
           </div>
-          <div class="zone-metrics" style="grid-template-columns: repeat(2, 1fr);">
-            
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">@nasimghanizadeh</div>
-                <div class="metric-label">Leader</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">15.7M</div>
-                <div class="metric-label">Votes</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">19</div>
-                <div class="metric-label">Voters</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">22</div>
-                <div class="metric-label">Submissions</div>
-              </div>
-          </div>
+          <div class="hero-value" style="color: #34d399">@nasimghanizadeh</div>
+          <div class="hero-stats"><span class="hero-sub"><span class="hero-sub-value" style="color: #34d399">15.7M</span> <span class="hero-sub-label">Votes</span></span><span class="hero-sub"><span class="hero-sub-value" style="color: #34d399">19</span> <span class="hero-sub-label">Voters</span></span></div>
         </div>
         <div class="zone-card" style="border-color: #fb718540;">
           <div class="zone-header" style="border-bottom-color: #fb718530;">
@@ -234,8 +256,8 @@ h1 {
           <div class="zone-metrics" style="grid-template-columns: repeat(2, 1fr);">
             
               <div class="metric">
-                <div class="metric-value" style="color: #fbbf24">23</div>
-                <div class="metric-label">Submissions</div>
+                <div class="metric-value" style="color: #fbbf24">4</div>
+                <div class="metric-label">Reviewed</div>
               </div>
               <div class="metric">
                 <div class="metric-value" style="color: #fbbf24">9</div>
@@ -268,7 +290,7 @@ h1 {
                 <div class="metric-label">Recruited</div>
               </div>
               <div class="metric">
-                <div class="metric-value" style="color: #a78bfa">1104</div>
+                <div class="metric-value" style="color: #a78bfa">1105</div>
                 <div class="metric-label">Mentions</div>
               </div>
           </div>
@@ -284,10 +306,6 @@ h1 {
               <div class="metric">
                 <div class="metric-value" style="color: #fb923c">50</div>
                 <div class="metric-label">Assessments</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #fb923c">67</div>
-                <div class="metric-label">Reviewed (7d)</div>
               </div>
               <div class="metric">
                 <div class="metric-value" style="color: #fb923c">86</div>

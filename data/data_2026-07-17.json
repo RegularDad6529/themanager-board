@@ -1,7 +1,7 @@
 {
   "giphy": {
     "date": "2026-07-17",
-    "channel_uploads": "182",
+    "channel_uploads": "213",
     "channel_views": "117.4K",
     "local_meme_cards": 193,
     "local_complaint_cards": 20,
@@ -60,7 +60,6 @@
   "vetting": {
     "date": "2026-07-17",
     "total_assessments": 50,
-    "profiles_reviewed": 67,
     "pitfalls": 86
   },
   "cron": {
@@ -76,7 +75,7 @@
   },
   "do_something": {
     "date": "2026-07-17",
-    "total_submissions": 23,
+    "reviewed": 4,
     "completed": 9,
     "tracking": 9,
     "ms_won": 19,
@@ -87,6 +86,6 @@
     "card_images_posted": 275,
     "complaints_seen": 160,
     "complainers_recruited": 35,
-    "mentions_handled": 1104
+    "mentions_handled": 1105
   }
 }

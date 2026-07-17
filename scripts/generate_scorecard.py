@@ -159,42 +159,64 @@ def generate_html(config, data):
         icon = zone.get("icon", "■")
         label = zone.get("label", zone["id"].upper())
         
-        metrics_html = []
-        for metric in zone.get("metrics", []):
-            key = metric["key"]
-            val = zone_data.get(key)
-            formatted = format_value(val, metric.get("format", "string"))
-            metrics_html.append(f"""
-              <div class="metric">
-                <div class="metric-value" style="color: {color}">{formatted}</div>
-                <div class="metric-label">{metric['label']}</div>
-              </div>""")
-        
-        metrics_str = "".join(metrics_html)
-        
-        # Determine number of metrics for grid
-        n_metrics = len(zone.get("metrics", []))
-        if n_metrics <= 1:
-            grid_cols = "1"
-        elif n_metrics <= 2:
-            grid_cols = "2"
-        elif n_metrics <= 4:
-            grid_cols = "2"
-        else:
-            grid_cols = "3"
-        
-        # Wave link
+        # Wave link (shared across layouts)
         wave_url = zone.get("wave_url", "")
         link_html = ""
         if wave_url:
             link_html = f'<a href="{wave_url}" target="_blank" class="zone-link">↗ wave</a>'
-        
-        # Graph link (Giphy views)
         graph_url = zone.get("graph_url", "")
         if graph_url:
             link_html += f' <a href="{graph_url}" target="_blank" class="zone-link">📈 graph</a>'
         
-        zone_cards.append(f"""
+        # Check for hero layout (winner on top, stats below)
+        layout = zone.get("layout", "grid")
+        
+        if layout == "hero":
+            # Hero layout: first metric is large, rest are small below
+            hero_metric = zone.get("metrics", [{}])[0]
+            hero_val = format_value(zone_data.get(hero_metric["key"]), hero_metric.get("format", "string"))
+            sub_metrics = zone.get("metrics", [])[1:]
+            
+            sub_html = ""
+            for m in sub_metrics:
+                val = format_value(zone_data.get(m["key"]), m.get("format", "string"))
+                sub_html += f'<span class="hero-sub"><span class="hero-sub-value" style="color: {color}">{val}</span> <span class="hero-sub-label">{m["label"]}</span></span>'
+            
+            zone_cards.append(f"""
+        <div class="zone-card hero-card" style="border-color: {color}40;">
+          <div class="zone-header" style="border-bottom-color: {color}30;">
+            <span class="zone-icon">{icon}</span>
+            <span class="zone-label" style="color: {color}">{label}</span>
+            {link_html}
+          </div>
+          <div class="hero-value" style="color: {color}">{hero_val}</div>
+          <div class="hero-stats">{sub_html}</div>
+        </div>""")
+        else:
+            # Standard grid layout
+            metrics_html = []
+            for metric in zone.get("metrics", []):
+                key = metric["key"]
+                val = zone_data.get(key)
+                formatted = format_value(val, metric.get("format", "string"))
+                metrics_html.append(f"""
+              <div class="metric">
+                <div class="metric-value" style="color: {color}">{formatted}</div>
+                <div class="metric-label">{metric['label']}</div>
+              </div>""")
+            
+            metrics_str = "".join(metrics_html)
+            n_metrics = len(zone.get("metrics", []))
+            if n_metrics <= 1:
+                grid_cols = "1"
+            elif n_metrics <= 2:
+                grid_cols = "2"
+            elif n_metrics <= 4:
+                grid_cols = "2"
+            else:
+                grid_cols = "3"
+            
+            zone_cards.append(f"""
         <div class="zone-card" style="border-color: {color}40;">
           <div class="zone-header" style="border-bottom-color: {color}30;">
             <span class="zone-icon">{icon}</span>
@@ -329,9 +351,48 @@ h1 {{
 
 .zone-metrics {{
   display: grid;
-  gap: 1rem;
+  gap: 0.5rem;
+  padding: 0.75rem;
 }}
 
+/* Hero layout for MC winner */
+.hero-card {{
+  display: flex;
+  flex-direction: column;
+}}
+
+.hero-value {{
+  font-size: 1.75rem;
+  font-weight: 800;
+  text-align: center;
+  padding: 0.5rem 0.75rem;
+  letter-spacing: -0.02em;
+}}
+
+.hero-stats {{
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0 0.75rem 0.75rem;
+}}
+
+.hero-sub {{
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+}}
+
+.hero-sub-value {{
+  font-size: 1.1rem;
+  font-weight: 700;
+}}
+
+.hero-sub-label {{
+  font-size: 0.625rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}}
 .metric {{
   display: flex;
   flex-direction: column;
