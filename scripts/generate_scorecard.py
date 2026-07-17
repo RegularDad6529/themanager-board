@@ -246,10 +246,10 @@ def generate_html(config, data):
 
 body {{
   font-family: 'JetBrains Mono', monospace;
-  background: #020617;
+  background: #f8fafc;
   min-height: 100vh;
   padding: 1.25rem;
-  color: white;
+  color: #1e293b;
 }}
 
 .scorecard {{
@@ -263,7 +263,7 @@ body {{
   justify-content: space-between;
   margin-bottom: 1rem;
   padding-bottom: 0.75rem;
-  border-bottom: 1px solid #1e293b;
+  border-bottom: 2px solid #cbd5e1;
 }}
 
 .header-left {{
@@ -275,7 +275,7 @@ body {{
 .pulse-dot {{
   width: 10px;
   height: 10px;
-  background: #22d3ee;
+  background: #0ea5e9;
   border-radius: 50%;
   animation: pulse 2s infinite;
 }}
@@ -290,10 +290,11 @@ h1 {{
   font-weight: 800;
   letter-spacing: -0.025em;
   text-transform: uppercase;
+  color: #0f172a;
 }}
 
 .header-date {{
-  color: #475569;
+  color: #64748b;
   font-size: 0.875rem;
   font-weight: 500;
 }}
@@ -305,10 +306,11 @@ h1 {{
 }}
 
 .zone-card {{
-  background: rgba(15, 23, 42, 0.6);
-  border-radius: 0.75rem;
-  border: 1px solid;
+  background: white;
+  border-radius: 0.5rem;
+  border: 1px solid #e2e8f0;
   padding: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
 }}
 
 .zone-header {{
@@ -317,7 +319,7 @@ h1 {{
   gap: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 0.5rem;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #f1f5f9;
 }}
 
 .zone-icon {{
@@ -333,14 +335,14 @@ h1 {{
 }}
 
 .zone-link {{
-  color: #475569;
+  color: #94a3b8;
   text-decoration: none;
   font-size: 0.8rem;
   transition: color 0.2s;
 }}
 
 .zone-link:hover {{
-  color: #94a3b8;
+  color: #475569;
 }}
 
 .zone-metrics {{
@@ -382,7 +384,7 @@ h1 {{
 
 .hero-sub-label {{
   font-size: 0.625rem;
-  color: #64748b;
+  color: #94a3b8;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }}
@@ -400,23 +402,23 @@ h1 {{
 }}
 
 .metric-label {{
-  font-size: 0.65rem;
-  color: #64748b;
+  font-size: 0.625rem;
+  color: #94a3b8;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }}
 
 .footer {{
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+  font-size: 0.625rem;
+  color: #94a3b8;
   text-align: center;
-  margin-top: 2rem;
-  padding-top: 1rem;
-  border-top: 1px solid #1e293b;
-  color: #475569;
-  font-size: 0.7rem;
 }}
 
 .footer a {{
-  color: #475569;
+  color: #64748b;
   text-decoration: none;
 }}
 </style>
@@ -436,7 +438,7 @@ h1 {{
   </div>
   
   <div class="footer">
-    TheManager Scorecard · 6529 Daily Operations · <a href="https://github.com/RegularDad6529/themanager-scorecard">github.com/RegularDad6529/themanager-scorecard</a>
+    TheManager Board · 6529 Daily Operations · <a href="https://github.com/RegularDad6529/themanager-scorecard">github.com/RegularDad6529/themanager-scorecard</a>
   </div>
 </div>
 </body>
