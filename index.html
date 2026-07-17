@@ -17,7 +17,7 @@ body {
 }
 
 .scorecard {
-  max-width: 1200px;
+  max-width: 560px;
   margin: 0 auto;
 }
 
@@ -64,7 +64,7 @@ h1 {
 
 .zones {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 0.75rem;
 }
 
@@ -110,6 +110,45 @@ h1 {
 .zone-metrics {
   display: grid;
   gap: 0.5rem;
+}
+
+/* Hero layout for MC winner */
+.hero-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-align: center;
+  padding: 0.25rem 0.5rem 0.5rem;
+  letter-spacing: -0.02em;
+}
+
+.hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0 0.5rem 0.25rem;
+}
+
+.hero-sub {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+}
+
+.hero-sub-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.hero-sub-label {
+  font-size: 0.625rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .metric {
@@ -184,41 +223,14 @@ h1 {
               </div>
           </div>
         </div>
-        <div class="zone-card" style="border-color: #34d39940;">
+        <div class="zone-card hero-card" style="border-color: #34d39940;">
           <div class="zone-header" style="border-bottom-color: #34d39930;">
             <span class="zone-icon">🗳️</span>
             <span class="zone-label" style="color: #34d399">MEME CLUB</span>
             <a href="https://6529.io/waves/d23af421-203d-4e37-abc1-4d9df840026c" target="_blank" class="zone-link">↗ wave</a>
           </div>
-          <div class="zone-metrics" style="grid-template-columns: repeat(2, 1fr);">
-            
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">@nasimghanizadeh</div>
-                <div class="metric-label">Leader</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">15.7M</div>
-                <div class="metric-label">Votes</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #34d399">19</div>
-                <div class="metric-label">Voters</div>
-              </div>
-          </div>
-        </div>
-        <div class="zone-card" style="border-color: #fb718540;">
-          <div class="zone-header" style="border-bottom-color: #fb718530;">
-            <span class="zone-icon">🔍</span>
-            <span class="zone-label" style="color: #fb7185">SHILL WATCH — MAYBE DIVE BAR</span>
-            <a href="https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e" target="_blank" class="zone-link">↗ wave</a>
-          </div>
-          <div class="zone-metrics" style="grid-template-columns: repeat(1, 1fr);">
-            
-              <div class="metric">
-                <div class="metric-value" style="color: #fb7185">10</div>
-                <div class="metric-label">Shills Caught</div>
-              </div>
-          </div>
+          <div class="hero-value" style="color: #34d399">@nasimghanizadeh</div>
+          <div class="hero-stats"><span class="hero-sub"><span class="hero-sub-value" style="color: #34d399">15.7M</span> <span class="hero-sub-label">Votes</span></span><span class="hero-sub"><span class="hero-sub-value" style="color: #34d399">19</span> <span class="hero-sub-label">Voters</span></span></div>
         </div>
         <div class="zone-card" style="border-color: #fbbf2440;">
           <div class="zone-header" style="border-bottom-color: #fbbf2430;">
@@ -246,6 +258,38 @@ h1 {
               </div>
           </div>
         </div>
+        <div class="zone-card" style="border-color: #fb923c40;">
+          <div class="zone-header" style="border-bottom-color: #fb923c30;">
+            <span class="zone-icon">👤</span>
+            <span class="zone-label" style="color: #fb923c">VETTING</span>
+            <a href="https://github.com/RegularDad6529/profile-vetting" target="_blank" class="zone-link">↗ wave</a>
+          </div>
+          <div class="zone-metrics" style="grid-template-columns: repeat(2, 1fr);">
+            
+              <div class="metric">
+                <div class="metric-value" style="color: #fb923c">50</div>
+                <div class="metric-label">Assessments</div>
+              </div>
+              <div class="metric">
+                <div class="metric-value" style="color: #fb923c">86</div>
+                <div class="metric-label">Pitfalls</div>
+              </div>
+          </div>
+        </div>
+        <div class="zone-card" style="border-color: #fb718540;">
+          <div class="zone-header" style="border-bottom-color: #fb718530;">
+            <span class="zone-icon">🔍</span>
+            <span class="zone-label" style="color: #fb7185">SHILL WATCH — MAYBE DIVE BAR</span>
+            <a href="https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e" target="_blank" class="zone-link">↗ wave</a>
+          </div>
+          <div class="zone-metrics" style="grid-template-columns: repeat(1, 1fr);">
+            
+              <div class="metric">
+                <div class="metric-value" style="color: #fb7185">10</div>
+                <div class="metric-label">Shills Caught</div>
+              </div>
+          </div>
+        </div>
         <div class="zone-card" style="border-color: #a78bfa40;">
           <div class="zone-header" style="border-bottom-color: #a78bfa30;">
             <span class="zone-icon">📞</span>
@@ -265,24 +309,6 @@ h1 {
               <div class="metric">
                 <div class="metric-value" style="color: #a78bfa">1105</div>
                 <div class="metric-label">Mentions</div>
-              </div>
-          </div>
-        </div>
-        <div class="zone-card" style="border-color: #fb923c40;">
-          <div class="zone-header" style="border-bottom-color: #fb923c30;">
-            <span class="zone-icon">👤</span>
-            <span class="zone-label" style="color: #fb923c">VETTING</span>
-            <a href="https://github.com/RegularDad6529/profile-vetting" target="_blank" class="zone-link">↗ wave</a>
-          </div>
-          <div class="zone-metrics" style="grid-template-columns: repeat(2, 1fr);">
-            
-              <div class="metric">
-                <div class="metric-value" style="color: #fb923c">50</div>
-                <div class="metric-label">Assessments</div>
-              </div>
-              <div class="metric">
-                <div class="metric-value" style="color: #fb923c">86</div>
-                <div class="metric-label">Pitfalls</div>
               </div>
           </div>
         </div>

@@ -22,20 +22,11 @@
       "color": "#34d399",
       "icon": "🗳️",
       "wave_url": "https://6529.io/waves/d23af421-203d-4e37-abc1-4d9df840026c",
+      "layout": "hero",
       "metrics": [
         {"key": "current_winner", "label": "Leader", "format": "handle"},
         {"key": "current_winner_votes", "label": "Votes", "format": "votes"},
         {"key": "current_winner_voters", "label": "Voters", "format": "int"}
-      ]
-    },
-    {
-      "id": "shill_watch",
-      "label": "SHILL WATCH — MAYBE DIVE BAR",
-      "color": "#fb7185",
-      "icon": "🔍",
-      "wave_url": "https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e",
-      "metrics": [
-        {"key": "total_shills_caught", "label": "Shills Caught", "format": "int"}
       ]
     },
     {
@@ -52,6 +43,27 @@
       ]
     },
     {
+      "id": "vetting",
+      "label": "VETTING",
+      "color": "#fb923c",
+      "icon": "👤",
+      "wave_url": "https://github.com/RegularDad6529/profile-vetting",
+      "metrics": [
+        {"key": "total_assessments", "label": "Assessments", "format": "int"},
+        {"key": "pitfalls", "label": "Pitfalls", "format": "int"}
+      ]
+    },
+    {
+      "id": "shill_watch",
+      "label": "SHILL WATCH — MAYBE DIVE BAR",
+      "color": "#fb7185",
+      "icon": "🔍",
+      "wave_url": "https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e",
+      "metrics": [
+        {"key": "total_shills_caught", "label": "Shills Caught", "format": "int"}
+      ]
+    },
+    {
       "id": "complaints",
       "label": "COMPLAINTS",
       "color": "#a78bfa",
@@ -61,17 +73,6 @@
         {"key": "card_images_posted", "label": "Cards Posted", "format": "int"},
         {"key": "complainers_recruited", "label": "Recruited", "format": "int"},
         {"key": "mentions_handled", "label": "Mentions", "format": "int"}
-      ]
-    },
-    {
-      "id": "vetting",
-      "label": "VETTING",
-      "color": "#fb923c",
-      "icon": "👤",
-      "wave_url": "https://github.com/RegularDad6529/profile-vetting",
-      "metrics": [
-        {"key": "total_assessments", "label": "Assessments", "format": "int"},
-        {"key": "pitfalls", "label": "Pitfalls", "format": "int"}
       ]
     }
   ]

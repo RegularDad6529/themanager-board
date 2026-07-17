@@ -230,14 +230,9 @@ def generate_html(config, data):
     
     zones_html = "".join(zone_cards)
     
-    # Count zones for grid layout
+    # Count zones for grid layout — portrait orientation
     n_zones = len(zones)
-    if n_zones <= 2:
-        zones_grid = "1"
-    elif n_zones <= 4:
-        zones_grid = "2"
-    else:
-        zones_grid = "3"
+    zones_grid = "2"  # 2 columns for portrait layout
     
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -258,7 +253,7 @@ body {{
 }}
 
 .scorecard {{
-  max-width: 1200px;
+  max-width: 560px;
   margin: 0 auto;
 }}
 
@@ -353,6 +348,45 @@ h1 {{
   gap: 0.5rem;
 }}
 
+/* Hero layout for MC winner */
+.hero-card {{
+  display: flex;
+  flex-direction: column;
+}}
+
+.hero-value {{
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-align: center;
+  padding: 0.25rem 0.5rem 0.5rem;
+  letter-spacing: -0.02em;
+}}
+
+.hero-stats {{
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 0 0.5rem 0.25rem;
+}}
+
+.hero-sub {{
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+}}
+
+.hero-sub-value {{
+  font-size: 1.1rem;
+  font-weight: 700;
+}}
+
+.hero-sub-label {{
+  font-size: 0.625rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}}
+
 .metric {{
   display: flex;
   flex-direction: column;
@@ -410,7 +444,7 @@ h1 {{
     
     return html
 
-def screenshot_html(html_path, png_path, width=1200, height=800):
+def screenshot_html(html_path, png_path, width=800, height=1000):
     """Use Playwright to screenshot the HTML to a PNG, cropped to content."""
     from playwright.sync_api import sync_playwright
     
