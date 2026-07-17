@@ -239,17 +239,17 @@ def generate_html(config, data):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TheManager Scorecard — {today}</title>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<title>TheManager Board — {today}</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 
 body {{
   font-family: 'JetBrains Mono', monospace;
-  background: #f8fafc;
+  background: #f5f0e8;
   min-height: 100vh;
   padding: 1.25rem;
-  color: #1e293b;
+  color: #2a2520;
 }}
 
 .scorecard {{
@@ -263,7 +263,7 @@ body {{
   justify-content: space-between;
   margin-bottom: 1rem;
   padding-bottom: 0.75rem;
-  border-bottom: 2px solid #cbd5e1;
+  border-bottom: 2px solid #d4cab8;
 }}
 
 .header-left {{
@@ -275,7 +275,7 @@ body {{
 .pulse-dot {{
   width: 10px;
   height: 10px;
-  background: #0ea5e9;
+  background: #b5756b;
   border-radius: 50%;
   animation: pulse 2s infinite;
 }}
@@ -290,11 +290,11 @@ h1 {{
   font-weight: 800;
   letter-spacing: -0.025em;
   text-transform: uppercase;
-  color: #0f172a;
+  color: #2a2520;
 }}
 
 .header-date {{
-  color: #64748b;
+  color: #968d80;
   font-size: 0.875rem;
   font-weight: 500;
 }}
@@ -306,11 +306,11 @@ h1 {{
 }}
 
 .zone-card {{
-  background: white;
+  background: #fffcf5;
   border-radius: 0.5rem;
-  border: 1px solid #e2e8f0;
+  border: 1px solid #e0d8cc;
   padding: 0.75rem;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 4px rgba(42,37,32,0.06);
 }}
 
 .zone-header {{
@@ -319,7 +319,7 @@ h1 {{
   gap: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 0.5rem;
-  border-bottom: 1px solid #f1f5f9;
+  border-bottom: 1px solid #ede5d6;
 }}
 
 .zone-icon {{
@@ -335,14 +335,14 @@ h1 {{
 }}
 
 .zone-link {{
-  color: #94a3b8;
+  color: #c4b8a8;
   text-decoration: none;
   font-size: 0.8rem;
   transition: color 0.2s;
 }}
 
 .zone-link:hover {{
-  color: #475569;
+  color: #6b6358;
 }}
 
 .zone-metrics {{
@@ -357,11 +357,12 @@ h1 {{
 }}
 
 .hero-value {{
+  font-family: 'Caveat', cursive;
   font-size: 1.5rem;
-  font-weight: 800;
+  font-weight: 700;
   text-align: center;
   padding: 0.25rem 0.5rem 0.5rem;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }}
 
 .hero-stats {{
@@ -378,13 +379,14 @@ h1 {{
 }}
 
 .hero-sub-value {{
-  font-size: 1.1rem;
+  font-family: 'Caveat', cursive;
+  font-size: 1.25rem;
   font-weight: 700;
 }}
 
 .hero-sub-label {{
   font-size: 0.625rem;
-  color: #94a3b8;
+  color: #968d80;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }}
@@ -396,14 +398,15 @@ h1 {{
 }}
 
 .metric-value {{
+  font-family: 'Caveat', cursive;
   font-size: 1.5rem;
-  font-weight: 800;
-  line-height: 1.2;
+  font-weight: 700;
+  line-height: 1.1;
 }}
 
 .metric-label {{
   font-size: 0.625rem;
-  color: #94a3b8;
+  color: #968d80;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }}
@@ -411,14 +414,14 @@ h1 {{
 .footer {{
   margin-top: 1rem;
   padding-top: 0.75rem;
-  border-top: 1px solid #e2e8f0;
+  border-top: 1px solid #e0d8cc;
   font-size: 0.625rem;
-  color: #94a3b8;
+  color: #c4b8a8;
   text-align: center;
 }}
 
 .footer a {{
-  color: #64748b;
+  color: #968d80;
   text-decoration: none;
 }}
 </style>
