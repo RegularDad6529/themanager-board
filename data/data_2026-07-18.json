@@ -1,0 +1,91 @@
+{
+  "giphy": {
+    "date": "2026-07-18",
+    "channel_uploads": "274",
+    "channel_views": "178.8K",
+    "local_meme_cards": 254,
+    "local_complaint_cards": 20,
+    "approval_gifs": 3
+  },
+  "meme_club": {
+    "date": "2026-07-18",
+    "active_submissions": 23,
+    "unique_voters": 88,
+    "recent_chat_participants": 12,
+    "current_winner": "Bowo",
+    "current_winner_votes": 11938418,
+    "current_winner_voters": 7,
+    "top_3": [
+      {
+        "artist": "Bowo",
+        "votes": 11938418,
+        "voters": 7
+      },
+      {
+        "artist": "sonyart",
+        "votes": 6200661,
+        "voters": 10
+      },
+      {
+        "artist": "demonego",
+        "votes": 4499780,
+        "voters": 8
+      }
+    ]
+  },
+  "shill_watch": {
+    "date": "2026-07-18",
+    "total_shills_caught": 11,
+    "by_author": {
+      "GarryB1rd": 1,
+      "DeyvisMalta": 2,
+      "DeltaSauce": 1,
+      "meysvm": 1,
+      "gpebbles": 1,
+      "MadaCollects": 2,
+      "PGebbles": 1,
+      "Sherie_Margaret": 1,
+      "ebtexam": 1
+    },
+    "by_reason": {
+      "external_link_self_promo": 1,
+      "kg_submission_shill": 1,
+      "ms_submission_shill": 2,
+      "drive_by_external_link": 1,
+      "marketplace_self_promo": 3,
+      "test": 1,
+      "self_promo_art_mint": 1,
+      "check": 1
+    }
+  },
+  "vetting": {
+    "date": "2026-07-18",
+    "total_assessments": 50,
+    "pitfalls": 86
+  },
+  "cron": {
+    "date": "2026-07-18",
+    "total_jobs": 35,
+    "active": 31,
+    "paused": 4,
+    "errors": 1,
+    "error_names": [
+      "Seeking Nomination Artist Vetting"
+    ]
+  },
+  "do_something": {
+    "date": "2026-07-18",
+    "reviewed": 4,
+    "completed": 9,
+    "tracking": 10,
+    "ms_won": 19,
+    "memes_tracked": 16
+  },
+  "complaints": {
+    "date": "2026-07-18",
+    "card_images_posted": 279,
+    "complaints_seen": 160,
+    "complainers_recruited": 36,
+    "mentions_handled": 1143
+  }
+}
