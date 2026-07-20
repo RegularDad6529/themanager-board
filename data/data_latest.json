@@ -1,32 +1,32 @@
 {
   "giphy": {
     "date": "2026-07-20",
-    "channel_uploads": "274",
+    "channel_uploads": "277",
     "channel_views": "338.7K",
-    "local_meme_cards": 254,
+    "local_meme_cards": 257,
     "local_complaint_cards": 20,
-    "approval_gifs": 4
+    "approval_gifs": 7
   },
   "meme_club": {
     "date": "2026-07-20",
-    "active_submissions": 24,
-    "unique_voters": 89,
+    "active_submissions": 23,
+    "unique_voters": 92,
     "recent_chat_participants": 13,
-    "current_winner": "sonyart",
-    "current_winner_votes": 6044673,
-    "current_winner_title": "The Key to Freedom",
+    "current_winner": "Bowo",
+    "current_winner_votes": 12038418,
+    "current_winner_title": "Fully Exposed",
     "current_leader": "Bowo",
-    "current_leader_votes": 11938418,
-    "current_leader_voters": 7,
+    "current_leader_votes": 12038418,
+    "current_leader_voters": 8,
     "top_3": [
       {
         "artist": "Bowo",
-        "votes": 11938418,
-        "voters": 7
+        "votes": 12038418,
+        "voters": 8
       },
       {
         "artist": "sonyart",
-        "votes": 6701862,
+        "votes": 6707391,
         "voters": 10
       },
       {
@@ -64,7 +64,7 @@
   "vetting": {
     "date": "2026-07-20",
     "total_assessments": 50,
-    "pitfalls": 95
+    "pitfalls": 97
   },
   "cron": {
     "date": "2026-07-20",
@@ -78,7 +78,7 @@
   },
   "do_something": {
     "date": "2026-07-20",
-    "reviewed": 5,
+    "reviewed": 7,
     "completed": 9,
     "tracking": 10,
     "ms_won": 19,
@@ -89,6 +89,6 @@
     "card_images_posted": 287,
     "complaints_seen": 160,
     "complainers_recruited": 38,
-    "mentions_handled": 1195
+    "mentions_handled": 1218
   }
 }
