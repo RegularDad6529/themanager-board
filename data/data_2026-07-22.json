@@ -10,7 +10,7 @@
   "meme_club": {
     "date": "2026-07-22",
     "active_submissions": 25,
-    "unique_voters": 93,
+    "unique_voters": 96,
     "recent_chat_participants": 13,
     "current_winner": "Bowo",
     "current_winner_votes": 12038418,
@@ -27,8 +27,8 @@
       },
       {
         "artist": "sonyart",
-        "votes": 6707391,
-        "voters": 10
+        "votes": 7556391,
+        "voters": 11
       },
       {
         "artist": "demonego",
@@ -87,9 +87,9 @@
   },
   "complaints": {
     "date": "2026-07-22",
-    "card_images_posted": 289,
+    "card_images_posted": 290,
     "complaints_seen": 160,
     "complainers_recruited": 41,
-    "mentions_handled": 1349
+    "mentions_handled": 1392
   }
 }
