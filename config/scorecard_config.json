@@ -71,7 +71,7 @@
       "label": "HELP DESK",
       "color": "#0ea5e9",
       "icon": "🛠️",
-      "wave_url": "",
+      "wave_url": "https://6529.io/waves/b76bc886-6106-464b-bd70-7ff0352da2cf",
       "metrics": [
         {"key": "help_desk_tickets", "label": "Tickets", "format": "int"},
         {"key": "help_desk_people", "label": "People Helped", "format": "int"}
