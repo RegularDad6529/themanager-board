@@ -108,7 +108,7 @@ def load_config():
 
 def load_data():
     """Load the most recent dashboard data."""
-    history_file = "/home/prenode/.hermes/profiles/themanager/seen/dashboard_history.json"
+    history_file = "/home/user/.hermes/profiles/themanager/seen/dashboard_history.json"
     if not os.path.exists(history_file):
         print("ERROR: No dashboard history found. Run dashboard_collector.py first.")
         sys.exit(1)
@@ -623,7 +623,7 @@ def main():
     print(f"Data saved: {data_path}")
     
     # Generate views graph page
-    history_file = "/home/prenode/.hermes/profiles/themanager/seen/dashboard_history.json"
+    history_file = "/home/user/.hermes/profiles/themanager/seen/dashboard_history.json"
     if os.path.exists(history_file):
         with open(history_file) as f:
             history = json.load(f)

@@ -31,13 +31,13 @@ Each zone represents a wave or activity. Add/remove in `config/scorecard_config.
 Run manually or via cron:
 ```bash
 # 1. Collect dashboard data
-python3 /home/prenode/.hermes/profiles/themanager/scripts/dashboard_collector.py
+python3 /home/user/.hermes/profiles/themanager/scripts/dashboard_collector.py
 
 # 2. Generate scorecard
-python3 /home/prenode/themanager-scorecard/scripts/generate_scorecard.py
+python3 /home/user/themanager-scorecard/scripts/generate_scorecard.py
 
 # 3. Commit and push
-cd /home/prenode/themanager-scorecard
+cd /home/user/themanager-scorecard
 git add -A && git commit -m "Scorecard $(date -u +%Y-%m-%d)" && git push
 ```
 
