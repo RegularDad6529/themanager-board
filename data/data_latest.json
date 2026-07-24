@@ -1,45 +1,45 @@
 {
   "giphy": {
     "date": "2026-07-24",
-    "channel_uploads": "277",
+    "channel_uploads": "278",
     "channel_views": "983.8K",
-    "local_meme_cards": 257,
+    "local_meme_cards": 258,
     "local_complaint_cards": 20,
     "approval_gifs": 8
   },
   "meme_club": {
     "date": "2026-07-24",
     "active_submissions": 26,
-    "unique_voters": 97,
-    "recent_chat_participants": 13,
+    "unique_voters": 90,
+    "recent_chat_participants": 14,
     "current_winner": "Bowo",
-    "current_winner_votes": 12038418,
+    "current_winner_votes": 12076932,
     "current_winner_title": "Fully Exposed",
-    "current_winner_voters": 10,
+    "current_winner_voters": 11,
     "current_leader": "Bowo",
-    "current_leader_votes": 12075932,
-    "current_leader_voters": 10,
+    "current_leader_votes": 12076932,
+    "current_leader_voters": 11,
     "top_3": [
       {
         "artist": "Bowo",
-        "votes": 12075932,
-        "voters": 10
-      },
-      {
-        "artist": "sonyart",
-        "votes": 7556391,
+        "votes": 12076932,
         "voters": 11
       },
       {
         "artist": "demonego",
         "votes": 4499780,
         "voters": 8
+      },
+      {
+        "artist": "Danielbin",
+        "votes": 3906529,
+        "voters": 3
       }
     ]
   },
   "shill_watch": {
     "date": "2026-07-24",
-    "total_shills_caught": 13,
+    "total_shills_caught": 14,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -48,7 +48,7 @@
       "gpebbles": 1,
       "MadaCollects": 3,
       "PGebbles": 1,
-      "Sherie_Margaret": 1,
+      "Sherie_Margaret": 2,
       "ebtexam": 1,
       "JoelleLB": 1
     },
@@ -57,7 +57,7 @@
       "kg_submission_shill": 1,
       "ms_submission_shill": 3,
       "drive_by_external_link": 1,
-      "marketplace_self_promo": 3,
+      "marketplace_self_promo": 4,
       "test": 1,
       "self_promo_art_mint": 1,
       "check": 1,
@@ -71,14 +71,14 @@
   },
   "help_desk": {
     "date": "2026-07-24",
-    "help_desk_tickets": 1,
-    "help_desk_people": 1
+    "help_desk_tickets": 2,
+    "help_desk_people": 2
   },
   "cron": {
     "date": "2026-07-24",
     "total_jobs": 40,
-    "active": 36,
-    "paused": 4,
+    "active": 26,
+    "paused": 14,
     "errors": 1,
     "error_names": [
       "Seeking Nomination Artist Vetting"
@@ -94,9 +94,9 @@
   },
   "complaints": {
     "date": "2026-07-24",
-    "card_images_posted": 300,
+    "card_images_posted": 301,
     "complaints_seen": 160,
     "complainers_recruited": 43,
-    "mentions_handled": 1542
+    "mentions_handled": 1593
   }
 }
