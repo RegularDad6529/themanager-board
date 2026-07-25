@@ -9,8 +9,8 @@
   },
   "meme_club": {
     "date": "2026-07-25",
-    "active_submissions": 26,
-    "unique_voters": 90,
+    "active_submissions": 27,
+    "unique_voters": 94,
     "recent_chat_participants": 14,
     "current_winner": "Bowo",
     "current_winner_votes": 12076932,
@@ -94,9 +94,9 @@
   },
   "complaints": {
     "date": "2026-07-25",
-    "card_images_posted": 305,
-    "complaints_seen": 171,
-    "complainers_recruited": 44,
-    "mentions_handled": 1648
+    "card_images_posted": 307,
+    "complaints_seen": 176,
+    "complainers_recruited": 45,
+    "mentions_handled": 1708
   }
 }
