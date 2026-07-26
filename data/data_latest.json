@@ -9,8 +9,8 @@
   },
   "meme_club": {
     "date": "2026-07-26",
-    "active_submissions": 27,
-    "unique_voters": 94,
+    "active_submissions": 28,
+    "unique_voters": 95,
     "recent_chat_participants": 14,
     "current_winner": "Bowo",
     "current_winner_votes": 12076932,
@@ -79,9 +79,13 @@
     "total_jobs": 40,
     "active": 26,
     "paused": 14,
-    "errors": 1,
+    "errors": 5,
     "error_names": [
-      "Seeking Nomination Artist Vetting"
+      "Meme Club Mention Reply",
+      "Complaint Desk \u2014 Individual Cards",
+      "Mention Monitor",
+      "Seeking Nomination Artist Vetting",
+      "Public Help Desk Monitor"
     ]
   },
   "do_something": {
@@ -96,7 +100,7 @@
     "date": "2026-07-26",
     "card_images_posted": 309,
     "complaints_seen": 176,
-    "complainers_recruited": 45,
-    "mentions_handled": 1720
+    "complainers_recruited": 46,
+    "mentions_handled": 1765
   }
 }
