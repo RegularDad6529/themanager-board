@@ -9,20 +9,20 @@
   },
   "meme_club": {
     "date": "2026-07-29",
-    "active_submissions": 27,
-    "unique_voters": 107,
-    "recent_chat_participants": 13,
+    "active_submissions": 28,
+    "unique_voters": 104,
+    "recent_chat_participants": 12,
     "current_winner": "Bowo",
-    "current_winner_votes": 12077142,
+    "current_winner_votes": 16704765,
     "current_winner_title": "Fully Exposed",
     "current_winner_voters": 12,
     "current_leader": "Bowo",
-    "current_leader_votes": 12077142,
+    "current_leader_votes": 12076974,
     "current_leader_voters": 12,
     "top_3": [
       {
         "artist": "Bowo",
-        "votes": 12077142,
+        "votes": 12076974,
         "voters": 12
       },
       {
@@ -31,9 +31,9 @@
         "voters": 8
       },
       {
-        "artist": "Danielbin",
-        "votes": 3906529,
-        "voters": 3
+        "artist": "josenarciso",
+        "votes": 4206529,
+        "voters": 1
       }
     ]
   },
@@ -94,9 +94,9 @@
   },
   "complaints": {
     "date": "2026-07-29",
-    "card_images_posted": 318,
-    "complaints_seen": 200,
-    "complainers_recruited": 49,
-    "mentions_handled": 1887
+    "card_images_posted": 319,
+    "complaints_seen": 209,
+    "complainers_recruited": 51,
+    "mentions_handled": 1910
   }
 }
