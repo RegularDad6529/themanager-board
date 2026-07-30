@@ -10,20 +10,20 @@
   "meme_club": {
     "date": "2026-07-30",
     "active_submissions": 28,
-    "unique_voters": 103,
+    "unique_voters": 105,
     "recent_chat_participants": 12,
     "current_winner": "Bowo",
     "current_winner_votes": 16704765,
     "current_winner_title": "Fully Exposed",
-    "current_winner_voters": 12,
+    "current_winner_voters": 14,
     "current_leader": "Bowo",
-    "current_leader_votes": 12183217,
-    "current_leader_voters": 12,
+    "current_leader_votes": 12194746,
+    "current_leader_voters": 14,
     "top_3": [
       {
         "artist": "Bowo",
-        "votes": 12183217,
-        "voters": 12
+        "votes": 12194746,
+        "voters": 14
       },
       {
         "artist": "demonego",
@@ -94,9 +94,9 @@
   },
   "complaints": {
     "date": "2026-07-30",
-    "card_images_posted": 320,
+    "card_images_posted": 324,
     "complaints_seen": 209,
     "complainers_recruited": 53,
-    "mentions_handled": 1939
+    "mentions_handled": 1997
   }
 }
