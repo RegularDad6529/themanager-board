@@ -9,11 +9,11 @@
   },
   "meme_club": {
     "date": "2026-07-31",
-    "active_submissions": 28,
-    "unique_voters": 105,
+    "active_submissions": 27,
+    "unique_voters": 102,
     "recent_chat_participants": 12,
     "current_winner": "Bowo",
-    "current_winner_votes": 16704765,
+    "current_winner_votes": 12194746,
     "current_winner_title": "Fully Exposed",
     "current_winner_voters": 14,
     "current_leader": "Bowo",
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-07-31",
-    "total_shills_caught": 14,
+    "total_shills_caught": 16,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -50,7 +50,9 @@
       "PGebbles": 1,
       "Sherie_Margaret": 2,
       "ebtexam": 1,
-      "JoelleLB": 1
+      "JoelleLB": 1,
+      "DarrenSRS": 1,
+      "Ebrahim_Elmi": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -61,13 +63,15 @@
       "test": 1,
       "self_promo_art_mint": 1,
       "check": 1,
-      "not_a_shill_conversation": 1
+      "not_a_shill_conversation": 1,
+      "crypto_token_promo": 1,
+      "drive-by self-promotion of own NYC exhibition + Twitter Space link, no conversational engagement": 1
     }
   },
   "vetting": {
     "date": "2026-07-31",
     "total_assessments": 50,
-    "pitfalls": 117
+    "pitfalls": 26
   },
   "help_desk": {
     "date": "2026-07-31",
@@ -76,9 +80,9 @@
   },
   "cron": {
     "date": "2026-07-31",
-    "total_jobs": 38,
-    "active": 25,
-    "paused": 13,
+    "total_jobs": 34,
+    "active": 33,
+    "paused": 1,
     "errors": 1,
     "error_names": [
       "Seeking Nomination Artist Vetting"
@@ -96,7 +100,7 @@
     "date": "2026-07-31",
     "card_images_posted": 324,
     "complaints_seen": 209,
-    "complainers_recruited": 53,
-    "mentions_handled": 2006
+    "complainers_recruited": 54,
+    "mentions_handled": 2034
   }
 }
