@@ -9,8 +9,8 @@
   },
   "meme_club": {
     "date": "2026-08-01",
-    "active_submissions": 27,
-    "unique_voters": 103,
+    "active_submissions": 28,
+    "unique_voters": 105,
     "recent_chat_participants": 12,
     "current_winner": "Bowo",
     "current_winner_votes": 12194746,
@@ -26,20 +26,20 @@
         "voters": 15
       },
       {
+        "artist": "josenarciso",
+        "votes": 5206529,
+        "voters": 2
+      },
+      {
         "artist": "demonego",
         "votes": 4499780,
         "voters": 8
-      },
-      {
-        "artist": "josenarciso",
-        "votes": 4206529,
-        "voters": 1
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-01",
-    "total_shills_caught": 16,
+    "total_shills_caught": 19,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -48,11 +48,13 @@
       "gpebbles": 1,
       "MadaCollects": 3,
       "PGebbles": 1,
-      "Sherie_Margaret": 2,
+      "Sherie_Margaret": 3,
       "ebtexam": 1,
       "JoelleLB": 1,
       "DarrenSRS": 1,
-      "Ebrahim_Elmi": 1
+      "Ebrahim_Elmi": 1,
+      "BettyNajafi": 1,
+      "vesper": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -65,13 +67,16 @@
       "check": 1,
       "not_a_shill_conversation": 1,
       "crypto_token_promo": 1,
-      "drive-by self-promotion of own NYC exhibition + Twitter Space link, no conversational engagement": 1
+      "drive-by self-promotion of own NYC exhibition + Twitter Space link, no conversational engagement": 1,
+      "drive-by self-promotion of own art via bare Twitter link": 1,
+      "drive-by promotion of external Twitter account @networkedbot with bare link and no conversational engagement in dive bar": 1,
+      "bare_twitter_link": 1
     }
   },
   "vetting": {
     "date": "2026-08-01",
     "total_assessments": 50,
-    "pitfalls": 27
+    "pitfalls": 106
   },
   "help_desk": {
     "date": "2026-08-01",
@@ -83,15 +88,14 @@
     "total_jobs": 34,
     "active": 33,
     "paused": 1,
-    "errors": 2,
+    "errors": 1,
     "error_names": [
-      "gbrain Daily Wave Sync",
-      "Seeking Nomination Artist Vetting"
+      "gbrain Daily Wave Sync"
     ]
   },
   "do_something": {
     "date": "2026-08-01",
-    "reviewed": 8,
+    "reviewed": 9,
     "completed": 9,
     "tracking": 10,
     "ms_won": 19,
@@ -99,9 +103,9 @@
   },
   "complaints": {
     "date": "2026-08-01",
-    "card_images_posted": 328,
-    "complaints_seen": 209,
+    "card_images_posted": 331,
+    "complaints_seen": 213,
     "complainers_recruited": 54,
-    "mentions_handled": 2042
+    "mentions_handled": 2079
   }
 }
