@@ -10,25 +10,25 @@
   "meme_club": {
     "date": "2026-08-02",
     "active_submissions": 28,
-    "unique_voters": 105,
-    "recent_chat_participants": 12,
+    "unique_voters": 109,
+    "recent_chat_participants": 13,
     "current_winner": "Bowo",
     "current_winner_votes": 12194746,
     "current_winner_title": "Fully Exposed",
-    "current_winner_voters": 15,
+    "current_winner_voters": 16,
     "current_leader": "Bowo",
-    "current_leader_votes": 13278478,
-    "current_leader_voters": 15,
+    "current_leader_votes": 13296484,
+    "current_leader_voters": 16,
     "top_3": [
       {
         "artist": "Bowo",
-        "votes": 13278478,
-        "voters": 15
+        "votes": 13296484,
+        "voters": 16
       },
       {
         "artist": "josenarciso",
-        "votes": 5206529,
-        "voters": 2
+        "votes": 5212529,
+        "voters": 3
       },
       {
         "artist": "demonego",
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-08-02",
-    "total_shills_caught": 19,
+    "total_shills_caught": 20,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -54,7 +54,8 @@
       "DarrenSRS": 1,
       "Ebrahim_Elmi": 1,
       "BettyNajafi": 1,
-      "vesper": 1
+      "vesper": 1,
+      "Rocketgirl": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -70,13 +71,14 @@
       "drive-by self-promotion of own NYC exhibition + Twitter Space link, no conversational engagement": 1,
       "drive-by self-promotion of own art via bare Twitter link": 1,
       "drive-by promotion of external Twitter account @networkedbot with bare link and no conversational engagement in dive bar": 1,
-      "bare_twitter_link": 1
+      "bare_twitter_link": 1,
+      "marketplace_mention: promoting external site Networked art and their own series on it \u2014 drive-by shill": 1
     }
   },
   "vetting": {
     "date": "2026-08-02",
     "total_assessments": 50,
-    "pitfalls": 106
+    "pitfalls": 113
   },
   "help_desk": {
     "date": "2026-08-02",
@@ -103,9 +105,9 @@
   },
   "complaints": {
     "date": "2026-08-02",
-    "card_images_posted": 331,
+    "card_images_posted": 333,
     "complaints_seen": 213,
-    "complainers_recruited": 55,
-    "mentions_handled": 2096
+    "complainers_recruited": 56,
+    "mentions_handled": 2141
   }
 }
