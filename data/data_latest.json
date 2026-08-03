@@ -1,20 +1,20 @@
 {
   "giphy": {
     "date": "2026-08-03",
-    "channel_uploads": "281",
+    "channel_uploads": "283",
     "channel_views": "2.3M",
-    "local_meme_cards": 261,
+    "local_meme_cards": 263,
     "local_complaint_cards": 20,
     "approval_gifs": 8
   },
   "meme_club": {
     "date": "2026-08-03",
     "active_submissions": 28,
-    "unique_voters": 110,
+    "unique_voters": 114,
     "recent_chat_participants": 13,
-    "current_winner": "Bowo",
-    "current_winner_votes": 12194746,
-    "current_winner_title": "Fully Exposed",
+    "current_winner": "N/A",
+    "current_winner_votes": 0,
+    "current_winner_title": "",
     "current_winner_voters": 16,
     "current_leader": "Bowo",
     "current_leader_votes": 13296484,
@@ -26,20 +26,20 @@
         "voters": 16
       },
       {
+        "artist": "pandelic",
+        "votes": 9494867,
+        "voters": 4
+      },
+      {
         "artist": "josenarciso",
         "votes": 5212529,
         "voters": 3
-      },
-      {
-        "artist": "demonego",
-        "votes": 4499780,
-        "voters": 8
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-03",
-    "total_shills_caught": 20,
+    "total_shills_caught": 22,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -55,7 +55,9 @@
       "Ebrahim_Elmi": 1,
       "BettyNajafi": 1,
       "vesper": 1,
-      "Rocketgirl": 1
+      "Rocketgirl": 1,
+      "desolalasisi": 1,
+      "Kubti": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -72,13 +74,15 @@
       "drive-by self-promotion of own art via bare Twitter link": 1,
       "drive-by promotion of external Twitter account @networkedbot with bare link and no conversational engagement in dive bar": 1,
       "bare_twitter_link": 1,
-      "marketplace_mention: promoting external site Networked art and their own series on it \u2014 drive-by shill": 1
+      "marketplace_mention: promoting external site Networked art and their own series on it \u2014 drive-by shill": 1,
+      "drive_by_bare_link": 1,
+      "drive-by bare external Twitter/X link with no conversational context": 1
     }
   },
   "vetting": {
     "date": "2026-08-03",
     "total_assessments": 50,
-    "pitfalls": 113
+    "pitfalls": 114
   },
   "help_desk": {
     "date": "2026-08-03",
@@ -88,11 +92,12 @@
   "cron": {
     "date": "2026-08-03",
     "total_jobs": 34,
-    "active": 33,
-    "paused": 1,
-    "errors": 1,
+    "active": 32,
+    "paused": 2,
+    "errors": 2,
     "error_names": [
-      "gbrain Daily Wave Sync"
+      "gbrain Daily Wave Sync",
+      "Board Data Update (2x daily)"
     ]
   },
   "do_something": {
@@ -105,9 +110,9 @@
   },
   "complaints": {
     "date": "2026-08-03",
-    "card_images_posted": 335,
-    "complaints_seen": 213,
+    "card_images_posted": 337,
+    "complaints_seen": 223,
     "complainers_recruited": 57,
-    "mentions_handled": 2147
+    "mentions_handled": 2204
   }
 }
