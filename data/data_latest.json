@@ -1,45 +1,45 @@
 {
   "giphy": {
     "date": "2026-08-05",
-    "channel_uploads": "283",
+    "channel_uploads": "284",
     "channel_views": "2.7M",
-    "local_meme_cards": 263,
+    "local_meme_cards": 264,
     "local_complaint_cards": 20,
     "approval_gifs": 8
   },
   "meme_club": {
     "date": "2026-08-05",
-    "active_submissions": 27,
-    "unique_voters": 99,
+    "active_submissions": 26,
+    "unique_voters": 98,
     "recent_chat_participants": 13,
     "current_winner": "josenarciso",
     "current_winner_votes": 5212529,
     "current_winner_title": "The King Must Fall",
-    "current_winner_voters": 4,
-    "current_leader": "Minotaur_Man",
-    "current_leader_votes": 11898141,
-    "current_leader_voters": 4,
+    "current_winner_voters": 6,
+    "current_leader": "pandelic",
+    "current_leader_votes": 22314936,
+    "current_leader_voters": 6,
     "top_3": [
       {
-        "artist": "Minotaur_Man",
-        "votes": 11898141,
-        "voters": 4
-      },
-      {
         "artist": "pandelic",
-        "votes": 9494867,
-        "voters": 4
+        "votes": 22314936,
+        "voters": 6
       },
       {
         "artist": "josenarciso",
         "votes": 5212529,
         "voters": 3
+      },
+      {
+        "artist": "demonego",
+        "votes": 4499780,
+        "voters": 8
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-05",
-    "total_shills_caught": 24,
+    "total_shills_caught": 28,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -48,7 +48,7 @@
       "gpebbles": 1,
       "MadaCollects": 3,
       "PGebbles": 1,
-      "Sherie_Margaret": 3,
+      "Sherie_Margaret": 5,
       "ebtexam": 1,
       "JoelleLB": 1,
       "DarrenSRS": 1,
@@ -57,9 +57,10 @@
       "vesper": 1,
       "Rocketgirl": 1,
       "desolalasisi": 1,
-      "Kubti": 1,
+      "Kubti": 2,
       "NLV": 1,
-      "david": 1
+      "david": 1,
+      "Mayudrops": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -80,13 +81,17 @@
       "drive_by_bare_link": 1,
       "drive-by bare external Twitter/X link with no conversational context": 1,
       "sell_language,external_link_with_promo": 1,
-      "bare_twitter_link_drive_by": 1
+      "bare_twitter_link_drive_by": 1,
+      "unsolicited_self_promotion": 1,
+      "drive-by promotion of external marketplace via bare Twitter link": 1,
+      "unsolicited self-promotion: 'Pls be check out my piece whale' \u2014 drive-by shill of own work in an unrelated auction conversation": 1,
+      "monitor_only": 1
     }
   },
   "vetting": {
     "date": "2026-08-05",
     "total_assessments": 50,
-    "pitfalls": 114
+    "pitfalls": 115
   },
   "help_desk": {
     "date": "2026-08-05",
@@ -113,9 +118,9 @@
   },
   "complaints": {
     "date": "2026-08-05",
-    "card_images_posted": 343,
-    "complaints_seen": 228,
-    "complainers_recruited": 58,
-    "mentions_handled": 2254
+    "card_images_posted": 347,
+    "complaints_seen": 229,
+    "complainers_recruited": 61,
+    "mentions_handled": 2302
   }
 }
