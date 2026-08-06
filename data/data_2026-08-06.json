@@ -10,7 +10,7 @@
   "meme_club": {
     "date": "2026-08-06",
     "active_submissions": 26,
-    "unique_voters": 98,
+    "unique_voters": 101,
     "recent_chat_participants": 13,
     "current_winner": "josenarciso",
     "current_winner_votes": 5212529,
@@ -27,8 +27,8 @@
       },
       {
         "artist": "josenarciso",
-        "votes": 5212529,
-        "voters": 3
+        "votes": 5212949,
+        "voters": 4
       },
       {
         "artist": "demonego",
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-08-06",
-    "total_shills_caught": 28,
+    "total_shills_caught": 30,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -60,7 +60,9 @@
       "Kubti": 2,
       "NLV": 1,
       "david": 1,
-      "Mayudrops": 1
+      "Mayudrops": 1,
+      "simo": 1,
+      "sathar": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -85,13 +87,15 @@
       "unsolicited_self_promotion": 1,
       "drive-by promotion of external marketplace via bare Twitter link": 1,
       "unsolicited self-promotion: 'Pls be check out my piece whale' \u2014 drive-by shill of own work in an unrelated auction conversation": 1,
-      "monitor_only": 1
+      "monitor_only": 1,
+      "conversational_explanation": 1,
+      "self_promotion_external_platform": 1
     }
   },
   "vetting": {
     "date": "2026-08-06",
     "total_assessments": 50,
-    "pitfalls": 115
+    "pitfalls": 117
   },
   "help_desk": {
     "date": "2026-08-06",
@@ -110,17 +114,17 @@
   },
   "do_something": {
     "date": "2026-08-06",
-    "reviewed": 9,
+    "reviewed": 0,
     "completed": 9,
-    "tracking": 10,
-    "ms_won": 19,
+    "tracking": 0,
+    "ms_won": 0,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-08-06",
-    "card_images_posted": 347,
+    "card_images_posted": 350,
     "complaints_seen": 229,
     "complainers_recruited": 62,
-    "mentions_handled": 2328
+    "mentions_handled": 2361
   }
 }
