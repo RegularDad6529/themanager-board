@@ -1,16 +1,16 @@
 {
   "giphy": {
     "date": "2026-08-08",
-    "channel_uploads": "262",
+    "channel_uploads": "273",
     "channel_views": "3.5M",
-    "local_meme_cards": 242,
+    "local_meme_cards": 253,
     "local_complaint_cards": 20,
     "approval_gifs": 20
   },
   "meme_club": {
     "date": "2026-08-08",
-    "active_submissions": 25,
-    "unique_voters": 97,
+    "active_submissions": 26,
+    "unique_voters": 99,
     "recent_chat_participants": 13,
     "current_winner": "josenarciso",
     "current_winner_votes": 5212529,
@@ -26,20 +26,20 @@
         "voters": 6
       },
       {
+        "artist": "Jaen",
+        "votes": 7740617,
+        "voters": 2
+      },
+      {
         "artist": "demonego",
         "votes": 4499780,
         "voters": 8
-      },
-      {
-        "artist": "Danielbin",
-        "votes": 3906529,
-        "voters": 3
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-08",
-    "total_shills_caught": 32,
+    "total_shills_caught": 34,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -56,14 +56,15 @@
       "BettyNajafi": 1,
       "vesper": 1,
       "Rocketgirl": 1,
-      "desolalasisi": 1,
+      "desolalasisi": 2,
       "Kubti": 2,
       "NLV": 1,
       "david": 2,
       "Mayudrops": 1,
       "simo": 1,
       "sathar": 1,
-      "pandelic": 1
+      "pandelic": 1,
+      "sonyart": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -84,7 +85,7 @@
       "drive_by_bare_link": 1,
       "drive-by bare external Twitter/X link with no conversational context": 1,
       "sell_language,external_link_with_promo": 1,
-      "bare_twitter_link_drive_by": 1,
+      "bare_twitter_link_drive_by": 2,
       "unsolicited_self_promotion": 1,
       "drive-by promotion of external marketplace via bare Twitter link": 1,
       "unsolicited self-promotion: 'Pls be check out my piece whale' \u2014 drive-by shill of own work in an unrelated auction conversation": 1,
@@ -92,7 +93,8 @@
       "conversational_explanation": 1,
       "self_promotion_external_platform": 1,
       "drive-by bare Twitter link to own X post with no conversational context": 1,
-      "bare_twitter_link_drive_by_self_promo_repeat": 1
+      "bare_twitter_link_drive_by_self_promo_repeat": 1,
+      "sell_language": 1
     }
   },
   "vetting": {
@@ -125,9 +127,9 @@
   },
   "complaints": {
     "date": "2026-08-08",
-    "card_images_posted": 355,
-    "complaints_seen": 229,
-    "complainers_recruited": 63,
-    "mentions_handled": 2401
+    "card_images_posted": 356,
+    "complaints_seen": 231,
+    "complainers_recruited": 64,
+    "mentions_handled": 2419
   }
 }
