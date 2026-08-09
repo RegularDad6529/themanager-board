@@ -9,26 +9,26 @@
   },
   "meme_club": {
     "date": "2026-08-09",
-    "active_submissions": 26,
-    "unique_voters": 99,
-    "recent_chat_participants": 12,
+    "active_submissions": 33,
+    "unique_voters": 111,
+    "recent_chat_participants": 13,
     "current_winner": "josenarciso",
     "current_winner_votes": 5212529,
     "current_winner_title": "The King Must Fall",
-    "current_winner_voters": 6,
+    "current_winner_voters": 7,
     "current_leader": "josenarciso",
-    "current_leader_votes": 21071533,
-    "current_leader_voters": 6,
+    "current_leader_votes": 21106981,
+    "current_leader_voters": 7,
     "top_3": [
       {
         "artist": "josenarciso",
-        "votes": 21071533,
-        "voters": 6
+        "votes": 21106981,
+        "voters": 7
       },
       {
         "artist": "Jaen",
-        "votes": 7740617,
-        "voters": 2
+        "votes": 7990617,
+        "voters": 3
       },
       {
         "artist": "demonego",
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-08-09",
-    "total_shills_caught": 34,
+    "total_shills_caught": 35,
     "by_author": {
       "GarryB1rd": 1,
       "DeyvisMalta": 2,
@@ -64,7 +64,8 @@
       "simo": 1,
       "sathar": 1,
       "pandelic": 1,
-      "sonyart": 1
+      "sonyart": 1,
+      "Bicasso": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -94,13 +95,14 @@
       "self_promotion_external_platform": 1,
       "drive-by bare Twitter link to own X post with no conversational context": 1,
       "bare_twitter_link_drive_by_self_promo_repeat": 1,
-      "sell_language": 1
+      "sell_language": 1,
+      "drive-by promotion of OpenSea app beta invite link in dive bar with no conversational context": 1
     }
   },
   "vetting": {
     "date": "2026-08-09",
     "total_assessments": 50,
-    "pitfalls": 124
+    "pitfalls": 125
   },
   "help_desk": {
     "date": "2026-08-09",
@@ -109,8 +111,8 @@
   },
   "cron": {
     "date": "2026-08-09",
-    "total_jobs": 35,
-    "active": 33,
+    "total_jobs": 39,
+    "active": 37,
     "paused": 2,
     "errors": 1,
     "error_names": [
@@ -129,7 +131,7 @@
     "date": "2026-08-09",
     "card_images_posted": 356,
     "complaints_seen": 231,
-    "complainers_recruited": 64,
-    "mentions_handled": 2424
+    "complainers_recruited": 66,
+    "mentions_handled": 2472
   }
 }
