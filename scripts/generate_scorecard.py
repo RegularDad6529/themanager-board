@@ -68,7 +68,6 @@ DEFAULT_CONFIG = {
                 {"key": "total_submissions", "label": "Submissions", "format": "int"},
                 {"key": "completed", "label": "Completed", "format": "int"},
                 {"key": "in_progress", "label": "In Progress", "format": "int"},
-                {"key": "ms_won", "label": "MS Wins", "format": "int"},
             ]
         },
         {

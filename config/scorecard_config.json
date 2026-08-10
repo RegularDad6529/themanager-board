@@ -41,8 +41,7 @@
       "metrics": [
         {"key": "reviewed", "label": "Submissions", "format": "int"},
         {"key": "completed", "label": "Completed", "format": "int"},
-        {"key": "tracking", "label": "Tracking", "format": "int"},
-        {"key": "ms_won", "label": "MS Wins", "format": "int"}
+        {"key": "tracking", "label": "Tracking", "format": "int"}
       ]
     },
     {
