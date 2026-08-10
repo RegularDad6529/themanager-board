@@ -1,30 +1,25 @@
 {
   "giphy": {
     "date": "2026-08-10",
-    "channel_uploads": "273",
+    "channel_uploads": "274",
     "channel_views": "4.1M",
-    "local_meme_cards": 253,
+    "local_meme_cards": 254,
     "local_complaint_cards": 20,
     "approval_gifs": 20
   },
   "meme_club": {
     "date": "2026-08-10",
-    "active_submissions": 33,
-    "unique_voters": 113,
+    "active_submissions": 32,
+    "unique_voters": 106,
     "recent_chat_participants": 12,
     "current_winner": "josenarciso",
-    "current_winner_votes": 5212529,
-    "current_winner_title": "The King Must Fall",
-    "current_winner_voters": 7,
-    "current_leader": "josenarciso",
-    "current_leader_votes": 21106981,
-    "current_leader_voters": 7,
+    "current_winner_votes": 7990617,
+    "current_winner_title": "",
+    "current_winner_voters": 3,
+    "current_leader": "Jaen",
+    "current_leader_votes": 7990617,
+    "current_leader_voters": 3,
     "top_3": [
-      {
-        "artist": "josenarciso",
-        "votes": 21106981,
-        "voters": 7
-      },
       {
         "artist": "Jaen",
         "votes": 7990617,
@@ -34,6 +29,11 @@
         "artist": "demonego",
         "votes": 4499780,
         "voters": 8
+      },
+      {
+        "artist": "Danielbin",
+        "votes": 3906529,
+        "voters": 3
       }
     ]
   },
@@ -111,8 +111,8 @@
   },
   "cron": {
     "date": "2026-08-10",
-    "total_jobs": 40,
-    "active": 38,
+    "total_jobs": 42,
+    "active": 40,
     "paused": 2,
     "errors": 1,
     "error_names": [
@@ -121,7 +121,7 @@
   },
   "do_something": {
     "date": "2026-08-10",
-    "reviewed": 15,
+    "reviewed": 0,
     "completed": 9,
     "tracking": 9,
     "ms_won": 0,
@@ -129,9 +129,9 @@
   },
   "complaints": {
     "date": "2026-08-10",
-    "card_images_posted": 356,
-    "complaints_seen": 231,
-    "complainers_recruited": 66,
-    "mentions_handled": 2484
+    "card_images_posted": 359,
+    "complaints_seen": 234,
+    "complainers_recruited": 67,
+    "mentions_handled": 2512
   }
 }
