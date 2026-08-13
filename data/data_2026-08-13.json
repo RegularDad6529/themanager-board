@@ -1,16 +1,16 @@
 {
   "giphy": {
     "date": "2026-08-13",
-    "channel_uploads": "279",
+    "channel_uploads": "293",
     "channel_views": "4.9M",
-    "local_meme_cards": 259,
+    "local_meme_cards": 273,
     "local_complaint_cards": 20,
-    "approval_gifs": 20
+    "approval_gifs": 23
   },
   "meme_club": {
     "date": "2026-08-13",
-    "active_submissions": 33,
-    "unique_voters": 115,
+    "active_submissions": 34,
+    "unique_voters": 117,
     "recent_chat_participants": 10,
     "current_winner": "josenarciso",
     "current_winner_votes": 7990617,
@@ -26,22 +26,22 @@
         "voters": 4
       },
       {
-        "artist": "Baku",
-        "votes": 9893500,
+        "artist": "Bhare",
+        "votes": 10025310,
         "voters": 3
       },
       {
-        "artist": "Bhare",
-        "votes": 9888888,
-        "voters": 2
+        "artist": "Baku",
+        "votes": 9894500,
+        "voters": 4
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-13",
-    "total_shills_caught": 44,
+    "total_shills_caught": 45,
     "by_author": {
-      "GarryB1rd": 3,
+      "GarryB1rd": 4,
       "DeyvisMalta": 2,
       "DeltaSauce": 1,
       "meysvm": 1,
@@ -105,7 +105,8 @@
       "drive-by bare Twitter/X link, no conversational context": 1,
       "drive-by self-promotion: bare Twitter link to own tweet with no conversational context": 1,
       "drive-by promotion: bare link to own tweet, no conversational context": 1,
-      "drive-by_promotion_own_art_account": 1
+      "drive-by_promotion_own_art_account": 1,
+      "drive-by bare X link to own account with only GM as context": 1
     }
   },
   "vetting": {
@@ -139,9 +140,9 @@
   },
   "complaints": {
     "date": "2026-08-13",
-    "card_images_posted": 368,
+    "card_images_posted": 370,
     "complaints_seen": 245,
-    "complainers_recruited": 69,
-    "mentions_handled": 2645
+    "complainers_recruited": 70,
+    "mentions_handled": 2669
   }
 }
