@@ -9,21 +9,21 @@
   },
   "meme_club": {
     "date": "2026-08-14",
-    "active_submissions": 34,
+    "active_submissions": 33,
     "unique_voters": 117,
     "recent_chat_participants": 9,
-    "current_winner": "josenarciso",
-    "current_winner_votes": 7990617,
+    "current_winner": "N/A",
+    "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 4,
-    "current_leader": "CasaNUA",
-    "current_leader_votes": 19118418,
-    "current_leader_voters": 4,
+    "current_winner_voters": 6,
+    "current_leader": "Baku",
+    "current_leader_votes": 10436165,
+    "current_leader_voters": 6,
     "top_3": [
       {
-        "artist": "CasaNUA",
-        "votes": 19118418,
-        "voters": 4
+        "artist": "Baku",
+        "votes": 10436165,
+        "voters": 6
       },
       {
         "artist": "Bhare",
@@ -31,9 +31,9 @@
         "voters": 3
       },
       {
-        "artist": "Baku",
-        "votes": 9894500,
-        "voters": 4
+        "artist": "BettyNajafi",
+        "votes": 9890888,
+        "voters": 3
       }
     ]
   },
@@ -114,7 +114,7 @@
   "vetting": {
     "date": "2026-08-14",
     "total_assessments": 50,
-    "pitfalls": 129
+    "pitfalls": 132
   },
   "help_desk": {
     "date": "2026-08-14",
@@ -145,6 +145,6 @@
     "card_images_posted": 371,
     "complaints_seen": 252,
     "complainers_recruited": 71,
-    "mentions_handled": 2746
+    "mentions_handled": 2808
   }
 }
