@@ -115,7 +115,7 @@
   "vetting": {
     "date": "2026-08-15",
     "total_assessments": 50,
-    "pitfalls": 132
+    "pitfalls": 134
   },
   "help_desk": {
     "date": "2026-08-15",
@@ -135,17 +135,17 @@
   },
   "do_something": {
     "date": "2026-08-15",
-    "reviewed": 11,
+    "reviewed": 10,
     "completed": 9,
-    "tracking": 9,
+    "tracking": 10,
     "ms_won": 0,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-08-15",
-    "card_images_posted": 373,
+    "card_images_posted": 374,
     "complaints_seen": 252,
-    "complainers_recruited": 71,
-    "mentions_handled": 2812
+    "complainers_recruited": 72,
+    "mentions_handled": 2863
   }
 }
