@@ -10,7 +10,7 @@
   "meme_club": {
     "date": "2026-08-16",
     "active_submissions": 33,
-    "unique_voters": 119,
+    "unique_voters": 120,
     "recent_chat_participants": 9,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -115,7 +115,7 @@
   "vetting": {
     "date": "2026-08-16",
     "total_assessments": 50,
-    "pitfalls": 134
+    "pitfalls": 135
   },
   "help_desk": {
     "date": "2026-08-16",
@@ -143,9 +143,9 @@
   },
   "complaints": {
     "date": "2026-08-16",
-    "card_images_posted": 38,
+    "card_images_posted": 37,
     "complaints_seen": 254,
     "complainers_recruited": 72,
-    "mentions_handled": 2864
+    "mentions_handled": 2925
   }
 }
