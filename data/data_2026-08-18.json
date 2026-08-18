@@ -9,21 +9,21 @@
   },
   "meme_club": {
     "date": "2026-08-18",
-    "active_submissions": 33,
-    "unique_voters": 123,
+    "active_submissions": 34,
+    "unique_voters": 127,
     "recent_chat_participants": 9,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 8,
+    "current_winner_voters": 9,
     "current_leader": "Baku",
-    "current_leader_votes": 10446182,
-    "current_leader_voters": 8,
+    "current_leader_votes": 10452711,
+    "current_leader_voters": 9,
     "top_3": [
       {
         "artist": "Baku",
-        "votes": 10446182,
-        "voters": 8
+        "votes": 10452711,
+        "voters": 9
       },
       {
         "artist": "Bhare",
@@ -39,9 +39,9 @@
   },
   "shill_watch": {
     "date": "2026-08-18",
-    "total_shills_caught": 48,
+    "total_shills_caught": 50,
     "by_author": {
-      "GarryB1rd": 4,
+      "GarryB1rd": 5,
       "DeyvisMalta": 2,
       "DeltaSauce": 1,
       "meysvm": 1,
@@ -56,7 +56,7 @@
       "BettyNajafi": 1,
       "vesper": 1,
       "Rocketgirl": 1,
-      "desolalasisi": 4,
+      "desolalasisi": 5,
       "Kubti": 2,
       "NLV": 1,
       "david": 3,
@@ -86,7 +86,7 @@
       "drive-by self-promotion of own NYC exhibition + Twitter Space link, no conversational engagement": 1,
       "drive-by self-promotion of own art via bare Twitter link": 1,
       "drive-by promotion of external Twitter account @networkedbot with bare link and no conversational engagement in dive bar": 1,
-      "bare_twitter_link": 3,
+      "bare_twitter_link": 4,
       "marketplace_mention: promoting external site Networked art and their own series on it \u2014 drive-by shill": 1,
       "drive_by_bare_link": 1,
       "drive-by bare external Twitter/X link with no conversational context": 1,
@@ -111,7 +111,8 @@
       "drive-by bare X link to own account with only GM as context": 1,
       "Unsolicited sell language - 'BUY MY ART!!!' drive-by promotion in dive bar": 1,
       "drive_by_promotion_bare_twitter_link": 1,
-      "marketplace_mention": 1
+      "marketplace_mention": 1,
+      "drive-by shill: bare Twitter link to shillandia, no conversational context": 1
     }
   },
   "vetting": {
@@ -145,9 +146,9 @@
   },
   "complaints": {
     "date": "2026-08-18",
-    "card_images_posted": 30,
+    "card_images_posted": 32,
     "complaints_seen": 265,
     "complainers_recruited": 75,
-    "mentions_handled": 2999
+    "mentions_handled": 3025
   }
 }
