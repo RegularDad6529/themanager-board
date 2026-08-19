@@ -1,45 +1,45 @@
 {
   "giphy": {
     "date": "2026-08-19",
-    "channel_uploads": "294",
+    "channel_uploads": "295",
     "channel_views": "6.4M",
-    "local_meme_cards": 274,
+    "local_meme_cards": 275,
     "local_complaint_cards": 20,
     "approval_gifs": 23
   },
   "meme_club": {
     "date": "2026-08-19",
     "active_submissions": 34,
-    "unique_voters": 127,
+    "unique_voters": 121,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 9,
-    "current_leader": "Baku",
-    "current_leader_votes": 10452711,
-    "current_leader_voters": 9,
+    "current_winner_voters": 3,
+    "current_leader": "Jaen",
+    "current_leader_votes": 7991989,
+    "current_leader_voters": 3,
     "top_3": [
       {
-        "artist": "Baku",
-        "votes": 10452711,
-        "voters": 9
+        "artist": "Jaen",
+        "votes": 7991989,
+        "voters": 3
       },
       {
-        "artist": "Bhare",
-        "votes": 10035310,
-        "voters": 4
+        "artist": "Articulate",
+        "votes": 6256530,
+        "voters": 5
       },
       {
-        "artist": "BettyNajafi",
-        "votes": 9895635,
-        "voters": 4
+        "artist": "demonego",
+        "votes": 4499780,
+        "voters": 8
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-19",
-    "total_shills_caught": 50,
+    "total_shills_caught": 51,
     "by_author": {
       "GarryB1rd": 5,
       "DeyvisMalta": 2,
@@ -70,7 +70,8 @@
       "baiwei": 1,
       "Jaen": 2,
       "AshtonTekno": 1,
-      "hopix": 1
+      "hopix": 1,
+      "grubnot": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -86,7 +87,7 @@
       "drive-by self-promotion of own NYC exhibition + Twitter Space link, no conversational engagement": 1,
       "drive-by self-promotion of own art via bare Twitter link": 1,
       "drive-by promotion of external Twitter account @networkedbot with bare link and no conversational engagement in dive bar": 1,
-      "bare_twitter_link": 4,
+      "bare_twitter_link": 5,
       "marketplace_mention: promoting external site Networked art and their own series on it \u2014 drive-by shill": 1,
       "drive_by_bare_link": 1,
       "drive-by bare external Twitter/X link with no conversational context": 1,
@@ -146,9 +147,9 @@
   },
   "complaints": {
     "date": "2026-08-19",
-    "card_images_posted": 29,
+    "card_images_posted": 31,
     "complaints_seen": 265,
     "complainers_recruited": 76,
-    "mentions_handled": 3040
+    "mentions_handled": 3125
   }
 }
