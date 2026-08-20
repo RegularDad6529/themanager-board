@@ -39,9 +39,9 @@
   },
   "shill_watch": {
     "date": "2026-08-20",
-    "total_shills_caught": 53,
+    "total_shills_caught": 54,
     "by_author": {
-      "GarryB1rd": 5,
+      "GarryB1rd": 6,
       "DeyvisMalta": 2,
       "DeltaSauce": 1,
       "meysvm": 1,
@@ -115,7 +115,8 @@
       "marketplace_mention": 1,
       "drive-by shill: bare Twitter link to shillandia, no conversational context": 1,
       "unsolicited_wallet_sale": 1,
-      "drive-by OpenSea self-promo link in reply to 'who?' \u2014 author handle reversed matches OpenSea slug": 1
+      "drive-by OpenSea self-promo link in reply to 'who?' \u2014 author handle reversed matches OpenSea slug": 1,
+      "drive-by_promotion_bare_twitter_link": 1
     }
   },
   "vetting": {
@@ -149,9 +150,9 @@
   },
   "complaints": {
     "date": "2026-08-20",
-    "card_images_posted": 28,
-    "complaints_seen": 265,
+    "card_images_posted": 30,
+    "complaints_seen": 271,
     "complainers_recruited": 76,
-    "mentions_handled": 3152
+    "mentions_handled": 3219
   }
 }
