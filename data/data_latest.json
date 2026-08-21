@@ -9,8 +9,8 @@
   },
   "meme_club": {
     "date": "2026-08-21",
-    "active_submissions": 34,
-    "unique_voters": 121,
+    "active_submissions": 35,
+    "unique_voters": 122,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-08-21",
-    "total_shills_caught": 54,
+    "total_shills_caught": 58,
     "by_author": {
       "GarryB1rd": 6,
       "DeyvisMalta": 2,
@@ -56,7 +56,7 @@
       "BettyNajafi": 1,
       "vesper": 1,
       "Rocketgirl": 1,
-      "desolalasisi": 5,
+      "desolalasisi": 6,
       "Kubti": 2,
       "NLV": 1,
       "david": 3,
@@ -71,7 +71,8 @@
       "Jaen": 2,
       "AshtonTekno": 1,
       "hopix": 1,
-      "grubnot": 2
+      "grubnot": 3,
+      "nasimghanizadeh": 2
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -101,7 +102,7 @@
       "self_promotion_external_platform": 1,
       "drive-by bare Twitter link to own X post with no conversational context": 1,
       "bare_twitter_link_drive_by_self_promo_repeat": 1,
-      "sell_language": 1,
+      "sell_language": 2,
       "drive-by promotion of OpenSea app beta invite link in dive bar with no conversational context": 1,
       "bare_twitter_link_driveby": 1,
       "sell_own_content": 1,
@@ -116,7 +117,10 @@
       "drive-by shill: bare Twitter link to shillandia, no conversational context": 1,
       "unsolicited_wallet_sale": 1,
       "drive-by OpenSea self-promo link in reply to 'who?' \u2014 author handle reversed matches OpenSea slug": 1,
-      "drive-by_promotion_bare_twitter_link": 1
+      "drive-by_promotion_bare_twitter_link": 1,
+      "unsolicited_sell_language": 1,
+      "unsolicited self-promotion asking for eyes on own collection in manfoldd": 1,
+      "bare_twitter_link_drive_by_promotion": 1
     }
   },
   "vetting": {
@@ -132,8 +136,8 @@
   "cron": {
     "date": "2026-08-21",
     "total_jobs": 44,
-    "active": 42,
-    "paused": 2,
+    "active": 38,
+    "paused": 6,
     "errors": 2,
     "error_names": [
       "gbrain Daily Wave Sync",
@@ -142,7 +146,7 @@
   },
   "do_something": {
     "date": "2026-08-21",
-    "reviewed": 10,
+    "reviewed": 11,
     "completed": 9,
     "tracking": 10,
     "ms_won": 0,
@@ -150,9 +154,9 @@
   },
   "complaints": {
     "date": "2026-08-21",
-    "card_images_posted": 30,
-    "complaints_seen": 271,
-    "complainers_recruited": 76,
-    "mentions_handled": 3245
+    "card_images_posted": 32,
+    "complaints_seen": 274,
+    "complainers_recruited": 77,
+    "mentions_handled": 3298
   }
 }
