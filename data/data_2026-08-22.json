@@ -10,7 +10,7 @@
   "meme_club": {
     "date": "2026-08-22",
     "active_submissions": 36,
-    "unique_voters": 123,
+    "unique_voters": 124,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-08-22",
-    "total_shills_caught": 59,
+    "total_shills_caught": 61,
     "by_author": {
       "GarryB1rd": 6,
       "DeyvisMalta": 2,
@@ -71,9 +71,10 @@
       "Jaen": 2,
       "AshtonTekno": 1,
       "hopix": 1,
-      "grubnot": 3,
+      "grubnot": 4,
       "nasimghanizadeh": 2,
-      "Lily_art": 1
+      "Lily_art": 1,
+      "SummerMaxi": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -105,7 +106,7 @@
       "bare_twitter_link_drive_by_self_promo_repeat": 1,
       "sell_language": 2,
       "drive-by promotion of OpenSea app beta invite link in dive bar with no conversational context": 1,
-      "bare_twitter_link_driveby": 1,
+      "bare_twitter_link_driveby": 2,
       "sell_own_content": 1,
       "drive-by bare Twitter/X link, no conversational context": 1,
       "drive-by self-promotion: bare Twitter link to own tweet with no conversational context": 1,
@@ -122,7 +123,8 @@
       "unsolicited_sell_language": 1,
       "unsolicited self-promotion asking for eyes on own collection in manfoldd": 1,
       "bare_twitter_link_drive_by_promotion": 1,
-      "unsolicited_self_promotion_external_marketplaces": 1
+      "unsolicited_self_promotion_external_marketplaces": 1,
+      "drive-by self-promotion: bare X link to own account, no conversational context": 1
     }
   },
   "vetting": {
@@ -137,13 +139,11 @@
   },
   "cron": {
     "date": "2026-08-22",
-    "total_jobs": 44,
-    "active": 38,
+    "total_jobs": 45,
+    "active": 39,
     "paused": 6,
-    "errors": 1,
-    "error_names": [
-      "Board Data Update (2x daily)"
-    ]
+    "errors": 0,
+    "error_names": []
   },
   "do_something": {
     "date": "2026-08-22",
@@ -155,9 +155,9 @@
   },
   "complaints": {
     "date": "2026-08-22",
-    "card_images_posted": 34,
-    "complaints_seen": 274,
+    "card_images_posted": 35,
+    "complaints_seen": 281,
     "complainers_recruited": 77,
-    "mentions_handled": 3328
+    "mentions_handled": 3352
   }
 }
