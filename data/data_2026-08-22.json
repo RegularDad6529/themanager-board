@@ -9,8 +9,8 @@
   },
   "meme_club": {
     "date": "2026-08-22",
-    "active_submissions": 35,
-    "unique_voters": 122,
+    "active_submissions": 36,
+    "unique_voters": 123,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -140,9 +140,8 @@
     "total_jobs": 44,
     "active": 38,
     "paused": 6,
-    "errors": 2,
+    "errors": 1,
     "error_names": [
-      "gbrain Daily Wave Sync",
       "Board Data Update (2x daily)"
     ]
   },
@@ -159,6 +158,6 @@
     "card_images_posted": 34,
     "complaints_seen": 274,
     "complainers_recruited": 77,
-    "mentions_handled": 3324
+    "mentions_handled": 3328
   }
 }
