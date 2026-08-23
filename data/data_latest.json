@@ -10,7 +10,7 @@
   "meme_club": {
     "date": "2026-08-23",
     "active_submissions": 35,
-    "unique_voters": 123,
+    "unique_voters": 124,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -32,16 +32,16 @@
       },
       {
         "artist": "demonego",
-        "votes": 4499780,
-        "voters": 8
+        "votes": 4505311,
+        "voters": 9
       }
     ]
   },
   "shill_watch": {
     "date": "2026-08-23",
-    "total_shills_caught": 61,
+    "total_shills_caught": 62,
     "by_author": {
-      "GarryB1rd": 6,
+      "GarryB1rd": 7,
       "DeyvisMalta": 2,
       "DeltaSauce": 1,
       "meysvm": 1,
@@ -124,13 +124,14 @@
       "unsolicited self-promotion asking for eyes on own collection in manfoldd": 1,
       "bare_twitter_link_drive_by_promotion": 1,
       "unsolicited_self_promotion_external_marketplaces": 1,
-      "drive-by self-promotion: bare X link to own account, no conversational context": 1
+      "drive-by self-promotion: bare X link to own account, no conversational context": 1,
+      "Bare Twitter/X link to author's own post \u2014 drive-by self-promotion with no conversational context": 1
     }
   },
   "vetting": {
     "date": "2026-08-23",
     "total_assessments": 50,
-    "pitfalls": 137
+    "pitfalls": 140
   },
   "help_desk": {
     "date": "2026-08-23",
@@ -155,9 +156,9 @@
   },
   "complaints": {
     "date": "2026-08-23",
-    "card_images_posted": 32,
+    "card_images_posted": 31,
     "complaints_seen": 281,
     "complainers_recruited": 77,
-    "mentions_handled": 3357
+    "mentions_handled": 3396
   }
 }
