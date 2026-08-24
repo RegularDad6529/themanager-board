@@ -1,16 +1,16 @@
 {
   "giphy": {
     "date": "2026-08-24",
-    "channel_uploads": "295",
+    "channel_uploads": "296",
     "channel_views": "7.4M",
-    "local_meme_cards": 275,
+    "local_meme_cards": 276,
     "local_complaint_cards": 20,
     "approval_gifs": 23
   },
   "meme_club": {
     "date": "2026-08-24",
     "active_submissions": 35,
-    "unique_voters": 124,
+    "unique_voters": 125,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -32,8 +32,8 @@
       },
       {
         "artist": "demonego",
-        "votes": 4505311,
-        "voters": 9
+        "votes": 4505569,
+        "voters": 10
       }
     ]
   },
@@ -148,7 +148,7 @@
   },
   "do_something": {
     "date": "2026-08-24",
-    "reviewed": 11,
+    "reviewed": 12,
     "completed": 9,
     "tracking": 10,
     "ms_won": 0,
@@ -156,9 +156,9 @@
   },
   "complaints": {
     "date": "2026-08-24",
-    "card_images_posted": 32,
-    "complaints_seen": 294,
+    "card_images_posted": 31,
+    "complaints_seen": 298,
     "complainers_recruited": 78,
-    "mentions_handled": 3397
+    "mentions_handled": 3419
   }
 }
