@@ -11,7 +11,7 @@
     "date": "2026-08-25",
     "active_submissions": 35,
     "unique_voters": 125,
-    "recent_chat_participants": 8,
+    "recent_chat_participants": 9,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
@@ -131,7 +131,7 @@
   "vetting": {
     "date": "2026-08-25",
     "total_assessments": 50,
-    "pitfalls": 140
+    "pitfalls": 141
   },
   "help_desk": {
     "date": "2026-08-25",
@@ -156,9 +156,9 @@
   },
   "complaints": {
     "date": "2026-08-25",
-    "card_images_posted": 34,
-    "complaints_seen": 298,
+    "card_images_posted": 32,
+    "complaints_seen": 302,
     "complainers_recruited": 79,
-    "mentions_handled": 3427
+    "mentions_handled": 3455
   }
 }
