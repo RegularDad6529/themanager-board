@@ -1,17 +1,17 @@
 {
   "giphy": {
     "date": "2026-08-26",
-    "channel_uploads": "302",
+    "channel_uploads": "305",
     "channel_views": "8M",
-    "local_meme_cards": 282,
+    "local_meme_cards": 285,
     "local_complaint_cards": 20,
     "approval_gifs": 24
   },
   "meme_club": {
     "date": "2026-08-26",
     "active_submissions": 35,
-    "unique_voters": 125,
-    "recent_chat_participants": 9,
+    "unique_voters": 127,
+    "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
@@ -156,9 +156,9 @@
   },
   "complaints": {
     "date": "2026-08-26",
-    "card_images_posted": 32,
+    "card_images_posted": 33,
     "complaints_seen": 302,
     "complainers_recruited": 80,
-    "mentions_handled": 3466
+    "mentions_handled": 3493
   }
 }
