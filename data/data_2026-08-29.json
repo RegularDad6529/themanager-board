@@ -1,25 +1,30 @@
 {
   "giphy": {
     "date": "2026-08-29",
-    "channel_uploads": "310",
+    "channel_uploads": "325",
     "channel_views": "8.6M",
-    "local_meme_cards": 290,
+    "local_meme_cards": 305,
     "local_complaint_cards": 20,
     "approval_gifs": 24
   },
   "meme_club": {
     "date": "2026-08-29",
-    "active_submissions": 37,
-    "unique_voters": 135,
+    "active_submissions": 39,
+    "unique_voters": 138,
     "recent_chat_participants": 7,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 3,
-    "current_leader": "Jaen",
-    "current_leader_votes": 7991989,
-    "current_leader_voters": 3,
+    "current_winner_voters": 2,
+    "current_leader": "GarryB1rd",
+    "current_leader_votes": 11982344,
+    "current_leader_voters": 2,
     "top_3": [
+      {
+        "artist": "GarryB1rd",
+        "votes": 11982344,
+        "voters": 2
+      },
       {
         "artist": "Jaen",
         "votes": 7991989,
@@ -29,11 +34,6 @@
         "artist": "Articulate",
         "votes": 6256530,
         "voters": 5
-      },
-      {
-        "artist": "demonego",
-        "votes": 4505548,
-        "voters": 10
       }
     ]
   },
@@ -148,7 +148,7 @@
   },
   "do_something": {
     "date": "2026-08-29",
-    "reviewed": 13,
+    "reviewed": 14,
     "completed": 9,
     "tracking": 10,
     "ms_won": 0,
@@ -156,9 +156,9 @@
   },
   "complaints": {
     "date": "2026-08-29",
-    "card_images_posted": 36,
+    "card_images_posted": 35,
     "complaints_seen": 310,
     "complainers_recruited": 83,
-    "mentions_handled": 3557
+    "mentions_handled": 3567
   }
 }
