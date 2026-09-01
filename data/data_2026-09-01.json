@@ -1,16 +1,16 @@
 {
   "giphy": {
     "date": "2026-09-01",
-    "channel_uploads": "341",
+    "channel_uploads": "342",
     "channel_views": "9.3M",
-    "local_meme_cards": 321,
+    "local_meme_cards": 322,
     "local_complaint_cards": 20,
     "approval_gifs": 24
   },
   "meme_club": {
     "date": "2026-09-01",
-    "active_submissions": 40,
-    "unique_voters": 143,
+    "active_submissions": 41,
+    "unique_voters": 144,
     "recent_chat_participants": 8,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -39,7 +39,7 @@
   },
   "shill_watch": {
     "date": "2026-09-01",
-    "total_shills_caught": 62,
+    "total_shills_caught": 64,
     "by_author": {
       "GarryB1rd": 7,
       "DeyvisMalta": 2,
@@ -71,17 +71,18 @@
       "Jaen": 2,
       "AshtonTekno": 1,
       "hopix": 1,
-      "grubnot": 4,
+      "grubnot": 5,
       "nasimghanizadeh": 2,
       "Lily_art": 1,
-      "SummerMaxi": 1
+      "SummerMaxi": 1,
+      "ikertje": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
       "kg_submission_shill": 1,
       "ms_submission_shill": 3,
       "drive_by_external_link": 1,
-      "marketplace_self_promo": 4,
+      "marketplace_self_promo": 5,
       "test": 1,
       "self_promo_art_mint": 1,
       "check": 1,
@@ -125,7 +126,8 @@
       "bare_twitter_link_drive_by_promotion": 1,
       "unsolicited_self_promotion_external_marketplaces": 1,
       "drive-by self-promotion: bare X link to own account, no conversational context": 1,
-      "Bare Twitter/X link to author's own post \u2014 drive-by self-promotion with no conversational context": 1
+      "Bare Twitter/X link to author's own post \u2014 drive-by self-promotion with no conversational context": 1,
+      "Repeated unsolicited promotion of external trading app with personal referral code and fee solicitation": 1
     }
   },
   "vetting": {
@@ -157,8 +159,8 @@
   "complaints": {
     "date": "2026-09-01",
     "card_images_posted": 38,
-    "complaints_seen": 366,
+    "complaints_seen": 371,
     "complainers_recruited": 87,
-    "mentions_handled": 3714
+    "mentions_handled": 3749
   }
 }
