@@ -9,37 +9,37 @@
   },
   "meme_club": {
     "date": "2026-09-02",
-    "active_submissions": 41,
-    "unique_voters": 144,
+    "active_submissions": 42,
+    "unique_voters": 147,
     "recent_chat_participants": 7,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 2,
+    "current_winner_voters": 3,
     "current_leader": "GarryB1rd",
-    "current_leader_votes": 11982344,
-    "current_leader_voters": 2,
+    "current_leader_votes": 12101080,
+    "current_leader_voters": 3,
     "top_3": [
       {
         "artist": "GarryB1rd",
-        "votes": 11982344,
+        "votes": 12101080,
+        "voters": 3
+      },
+      {
+        "artist": "DarkMarkArt",
+        "votes": 10138888,
+        "voters": 3
+      },
+      {
+        "artist": "Parisa",
+        "votes": 8924332,
         "voters": 2
-      },
-      {
-        "artist": "Jaen",
-        "votes": 8041989,
-        "voters": 4
-      },
-      {
-        "artist": "Articulate",
-        "votes": 6341648,
-        "voters": 6
       }
     ]
   },
   "shill_watch": {
     "date": "2026-09-02",
-    "total_shills_caught": 64,
+    "total_shills_caught": 66,
     "by_author": {
       "GarryB1rd": 7,
       "DeyvisMalta": 2,
@@ -48,7 +48,7 @@
       "gpebbles": 2,
       "MadaCollects": 3,
       "PGebbles": 1,
-      "Sherie_Margaret": 6,
+      "Sherie_Margaret": 7,
       "ebtexam": 1,
       "JoelleLB": 1,
       "DarrenSRS": 1,
@@ -75,7 +75,8 @@
       "nasimghanizadeh": 2,
       "Lily_art": 1,
       "SummerMaxi": 1,
-      "ikertje": 1
+      "ikertje": 1,
+      "MAB": 1
     },
     "by_reason": {
       "external_link_self_promo": 1,
@@ -127,13 +128,15 @@
       "unsolicited_self_promotion_external_marketplaces": 1,
       "drive-by self-promotion: bare X link to own account, no conversational context": 1,
       "Bare Twitter/X link to author's own post \u2014 drive-by self-promotion with no conversational context": 1,
-      "Repeated unsolicited promotion of external trading app with personal referral code and fee solicitation": 1
+      "Repeated unsolicited promotion of external trading app with personal referral code and fee solicitation": 1,
+      "Unsolicited self-promotion of own art wave in dive bar, no conversational context": 1,
+      "NOT_A_SHILL - conversational family chat reply": 1
     }
   },
   "vetting": {
     "date": "2026-09-02",
     "total_assessments": 50,
-    "pitfalls": 151
+    "pitfalls": 152
   },
   "help_desk": {
     "date": "2026-09-02",
@@ -158,9 +161,9 @@
   },
   "complaints": {
     "date": "2026-09-02",
-    "card_images_posted": 38,
-    "complaints_seen": 378,
+    "card_images_posted": 39,
+    "complaints_seen": 395,
     "complainers_recruited": 88,
-    "mentions_handled": 3764
+    "mentions_handled": 3788
   }
 }
