@@ -1,16 +1,16 @@
 {
   "giphy": {
     "date": "2026-09-04",
-    "channel_uploads": "343",
+    "channel_uploads": "345",
     "channel_views": "9.9M",
-    "local_meme_cards": 323,
+    "local_meme_cards": 325,
     "local_complaint_cards": 20,
     "approval_gifs": 24
   },
   "meme_club": {
     "date": "2026-09-04",
     "active_submissions": 41,
-    "unique_voters": 152,
+    "unique_voters": 153,
     "recent_chat_participants": 7,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -27,8 +27,8 @@
       },
       {
         "artist": "Parisa",
-        "votes": 8980539,
-        "voters": 3
+        "votes": 8981000,
+        "voters": 4
       },
       {
         "artist": "Jaen",
@@ -163,9 +163,9 @@
   },
   "complaints": {
     "date": "2026-09-04",
-    "card_images_posted": 38,
+    "card_images_posted": 40,
     "complaints_seen": 409,
     "complainers_recruited": 89,
-    "mentions_handled": 3909
+    "mentions_handled": 3961
   }
 }
