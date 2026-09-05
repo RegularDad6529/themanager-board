@@ -138,7 +138,7 @@
   "vetting": {
     "date": "2026-09-05",
     "total_assessments": 50,
-    "pitfalls": 155
+    "pitfalls": 157
   },
   "help_desk": {
     "date": "2026-09-05",
@@ -164,8 +164,8 @@
   "complaints": {
     "date": "2026-09-05",
     "card_images_posted": 44,
-    "complaints_seen": 418,
+    "complaints_seen": 427,
     "complainers_recruited": 90,
-    "mentions_handled": 3986
+    "mentions_handled": 4041
   }
 }
