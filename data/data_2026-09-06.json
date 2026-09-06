@@ -9,7 +9,7 @@
   },
   "meme_club": {
     "date": "2026-09-06",
-    "active_submissions": 41,
+    "active_submissions": 42,
     "unique_voters": 153,
     "recent_chat_participants": 7,
     "current_winner": "N/A",
@@ -17,12 +17,12 @@
     "current_winner_title": "",
     "current_winner_voters": 3,
     "current_leader": "DarkMarkArt",
-    "current_leader_votes": 10138888,
+    "current_leader_votes": 9207888,
     "current_leader_voters": 3,
     "top_3": [
       {
         "artist": "DarkMarkArt",
-        "votes": 10138888,
+        "votes": 9207888,
         "voters": 3
       },
       {
@@ -165,7 +165,7 @@
     "date": "2026-09-06",
     "card_images_posted": 47,
     "complaints_seen": 427,
-    "complainers_recruited": 90,
-    "mentions_handled": 4060
+    "complainers_recruited": 91,
+    "mentions_handled": 4097
   }
 }
