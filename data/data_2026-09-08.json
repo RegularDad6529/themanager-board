@@ -9,37 +9,37 @@
   },
   "meme_club": {
     "date": "2026-09-08",
-    "active_submissions": 41,
-    "unique_voters": 146,
+    "active_submissions": 43,
+    "unique_voters": 147,
     "recent_chat_participants": 6,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 3,
-    "current_leader": "DarkMarkArt",
-    "current_leader_votes": 9207888,
-    "current_leader_voters": 3,
+    "current_winner_voters": 4,
+    "current_leader": "Jaen",
+    "current_leader_votes": 8041989,
+    "current_leader_voters": 4,
     "top_3": [
-      {
-        "artist": "DarkMarkArt",
-        "votes": 9207888,
-        "voters": 3
-      },
-      {
-        "artist": "Parisa",
-        "votes": 8981000,
-        "voters": 4
-      },
       {
         "artist": "Jaen",
         "votes": 8041989,
         "voters": 4
+      },
+      {
+        "artist": "demonego",
+        "votes": 4561755,
+        "voters": 11
+      },
+      {
+        "artist": "Danielbin",
+        "votes": 3906529,
+        "voters": 3
       }
     ]
   },
   "shill_watch": {
     "date": "2026-09-08",
-    "total_shills_caught": 68,
+    "total_shills_caught": 69,
     "by_author": {
       "GarryB1rd": 7,
       "DeyvisMalta": 2,
@@ -68,7 +68,7 @@
       "Bicasso": 1,
       "Voojdab": 1,
       "baiwei": 1,
-      "Jaen": 2,
+      "Jaen": 3,
       "AshtonTekno": 1,
       "hopix": 1,
       "grubnot": 6,
@@ -133,7 +133,8 @@
       "Unsolicited self-promotion of own art wave in dive bar, no conversational context": 1,
       "NOT_A_SHILL - conversational family chat reply": 1,
       "self-promo of own Manifold marketplace listing, author self-aware ('promise you don't ban me')": 1,
-      "Posting bare link to own collection on SuperRare marketplace; prior drop announced 'sold out new collection on SR' confirming self-promotion": 1
+      "Posting bare link to own collection on SuperRare marketplace; prior drop announced 'sold out new collection on SR' confirming self-promotion": 1,
+      "Announcing own upcoming drop featured on OpenSea with no conversational context": 1
     }
   },
   "vetting": {
@@ -149,24 +150,24 @@
   "cron": {
     "date": "2026-09-08",
     "total_jobs": 46,
-    "active": 40,
-    "paused": 6,
+    "active": 39,
+    "paused": 7,
     "errors": 0,
     "error_names": []
   },
   "do_something": {
     "date": "2026-09-08",
-    "reviewed": 16,
+    "reviewed": 20,
     "completed": 10,
     "tracking": 9,
-    "ms_won": 1,
+    "ms_won": 4,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-09-08",
-    "card_images_posted": 48,
+    "card_images_posted": 49,
     "complaints_seen": 458,
-    "complainers_recruited": 92,
-    "mentions_handled": 4215
+    "complainers_recruited": 93,
+    "mentions_handled": 4259
   }
 }
