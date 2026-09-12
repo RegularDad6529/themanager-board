@@ -149,9 +149,9 @@
   },
   "cron": {
     "date": "2026-09-12",
-    "total_jobs": 46,
+    "total_jobs": 47,
     "active": 39,
-    "paused": 7,
+    "paused": 8,
     "errors": 0,
     "error_names": []
   },
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-09-12",
-    "card_images_posted": 50,
+    "card_images_posted": 51,
     "complaints_seen": 463,
-    "complainers_recruited": 95,
-    "mentions_handled": 4426
+    "complainers_recruited": 96,
+    "mentions_handled": 4454
   }
 }
