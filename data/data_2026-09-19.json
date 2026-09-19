@@ -157,7 +157,7 @@
   },
   "do_something": {
     "date": "2026-09-19",
-    "reviewed": 16,
+    "reviewed": 15,
     "completed": 10,
     "tracking": 10,
     "ms_won": 0,
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-09-19",
-    "card_images_posted": 42,
+    "card_images_posted": 39,
     "complaints_seen": 482,
     "complainers_recruited": 102,
-    "mentions_handled": 4797
+    "mentions_handled": 4823
   }
 }
