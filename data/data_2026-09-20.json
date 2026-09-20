@@ -157,17 +157,17 @@
   },
   "do_something": {
     "date": "2026-09-20",
-    "reviewed": 15,
+    "reviewed": 18,
     "completed": 10,
-    "tracking": 10,
+    "tracking": 11,
     "ms_won": 0,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-09-20",
-    "card_images_posted": 44,
+    "card_images_posted": 45,
     "complaints_seen": 493,
-    "complainers_recruited": 103,
-    "mentions_handled": 4880
+    "complainers_recruited": 104,
+    "mentions_handled": 4907
   }
 }
