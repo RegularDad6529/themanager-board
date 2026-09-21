@@ -9,22 +9,17 @@
   },
   "meme_club": {
     "date": "2026-09-21",
-    "active_submissions": 37,
-    "unique_voters": 132,
+    "active_submissions": 36,
+    "unique_voters": 128,
     "recent_chat_participants": 10,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 4,
-    "current_leader": "Ayla",
-    "current_leader_votes": 8750352,
-    "current_leader_voters": 4,
+    "current_winner_voters": 5,
+    "current_leader": "Jaen",
+    "current_leader_votes": 8049794,
+    "current_leader_voters": 5,
     "top_3": [
-      {
-        "artist": "Ayla",
-        "votes": 8750352,
-        "voters": 4
-      },
       {
         "artist": "Jaen",
         "votes": 8049794,
@@ -34,6 +29,11 @@
         "artist": "SummerMaxi",
         "votes": 5268395,
         "voters": 3
+      },
+      {
+        "artist": "demonego",
+        "votes": 4561755,
+        "voters": 11
       }
     ]
   },
@@ -157,7 +157,7 @@
   },
   "do_something": {
     "date": "2026-09-21",
-    "reviewed": 18,
+    "reviewed": 15,
     "completed": 10,
     "tracking": 11,
     "ms_won": 0,
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-09-21",
-    "card_images_posted": 44,
+    "card_images_posted": 47,
     "complaints_seen": 493,
     "complainers_recruited": 104,
-    "mentions_handled": 4974
+    "mentions_handled": 4993
   }
 }
