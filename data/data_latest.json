@@ -9,26 +9,26 @@
   },
   "meme_club": {
     "date": "2026-09-23",
-    "active_submissions": 36,
-    "unique_voters": 130,
-    "recent_chat_participants": 11,
+    "active_submissions": 35,
+    "unique_voters": 128,
+    "recent_chat_participants": 12,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 5,
-    "current_leader": "Jaen",
-    "current_leader_votes": 8049794,
-    "current_leader_voters": 5,
+    "current_winner_voters": 14,
+    "current_leader": "senemsad",
+    "current_leader_votes": 10791847,
+    "current_leader_voters": 14,
     "top_3": [
+      {
+        "artist": "senemsad",
+        "votes": 10791847,
+        "voters": 14
+      },
       {
         "artist": "Jaen",
         "votes": 8049794,
         "voters": 5
-      },
-      {
-        "artist": "SummerMaxi",
-        "votes": 5268395,
-        "voters": 3
       },
       {
         "artist": "demonego",
@@ -149,8 +149,8 @@
   },
   "cron": {
     "date": "2026-09-23",
-    "total_jobs": 51,
-    "active": 43,
+    "total_jobs": 53,
+    "active": 45,
     "paused": 8,
     "errors": 0,
     "error_names": []
@@ -166,8 +166,8 @@
   "complaints": {
     "date": "2026-09-23",
     "card_images_posted": 48,
-    "complaints_seen": 493,
+    "complaints_seen": 504,
     "complainers_recruited": 105,
-    "mentions_handled": 5052
+    "mentions_handled": 5071
   }
 }
