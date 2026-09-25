@@ -11,9 +11,9 @@
     "date": "2026-09-25",
     "active_submissions": 36,
     "unique_voters": 128,
-    "recent_chat_participants": 13,
-    "current_winner": "N/A",
-    "current_winner_votes": 0,
+    "recent_chat_participants": 12,
+    "current_winner": "senemsad",
+    "current_winner_votes": 9574836,
     "current_winner_title": "",
     "current_winner_voters": 14,
     "current_leader": "senemsad",
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-09-25",
     "total_assessments": 50,
-    "pitfalls": 160
+    "pitfalls": 161
   },
   "help_desk": {
     "date": "2026-09-25",
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-09-25",
-    "card_images_posted": 53,
-    "complaints_seen": 537,
-    "complainers_recruited": 106,
-    "mentions_handled": 5130
+    "card_images_posted": 56,
+    "complaints_seen": 541,
+    "complainers_recruited": 107,
+    "mentions_handled": 5190
   }
 }
