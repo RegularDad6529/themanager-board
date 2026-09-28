@@ -9,7 +9,7 @@
   },
   "meme_club": {
     "date": "2026-09-28",
-    "active_submissions": 37,
+    "active_submissions": 35,
     "unique_voters": 132,
     "recent_chat_participants": 12,
     "current_winner": "senemsad",
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-09-28",
     "total_assessments": 50,
-    "pitfalls": 161
+    "pitfalls": 162
   },
   "help_desk": {
     "date": "2026-09-28",
@@ -157,7 +157,7 @@
   },
   "do_something": {
     "date": "2026-09-28",
-    "reviewed": 17,
+    "reviewed": 18,
     "completed": 10,
     "tracking": 11,
     "ms_won": 2,
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-09-28",
-    "card_images_posted": 57,
-    "complaints_seen": 555,
+    "card_images_posted": 58,
+    "complaints_seen": 557,
     "complainers_recruited": 108,
-    "mentions_handled": 5296
+    "mentions_handled": 5320
   }
 }
