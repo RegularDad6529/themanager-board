@@ -1,9 +1,9 @@
 {
   "giphy": {
     "date": "2026-10-09",
-    "channel_uploads": "357",
+    "channel_uploads": "358",
     "channel_views": "16.5M",
-    "local_meme_cards": 337,
+    "local_meme_cards": 338,
     "local_complaint_cards": 20,
     "approval_gifs": 24
   },
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-10-09",
     "total_assessments": 50,
-    "pitfalls": 172
+    "pitfalls": 175
   },
   "help_desk": {
     "date": "2026-10-09",
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-10-09",
-    "card_images_posted": 29,
-    "complaints_seen": 682,
+    "card_images_posted": 26,
+    "complaints_seen": 694,
     "complainers_recruited": 113,
-    "mentions_handled": 5565
+    "mentions_handled": 5573
   }
 }
