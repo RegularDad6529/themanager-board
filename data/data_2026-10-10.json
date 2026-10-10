@@ -10,8 +10,8 @@
   "meme_club": {
     "date": "2026-10-10",
     "active_submissions": 29,
-    "unique_voters": 113,
-    "recent_chat_participants": 13,
+    "unique_voters": 111,
+    "recent_chat_participants": 14,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-10-10",
     "total_assessments": 50,
-    "pitfalls": 175
+    "pitfalls": 176
   },
   "help_desk": {
     "date": "2026-10-10",
@@ -149,8 +149,8 @@
   },
   "cron": {
     "date": "2026-10-10",
-    "total_jobs": 53,
-    "active": 43,
+    "total_jobs": 52,
+    "active": 42,
     "paused": 10,
     "errors": 0,
     "error_names": []
@@ -159,15 +159,15 @@
     "date": "2026-10-10",
     "reviewed": 27,
     "completed": 10,
-    "tracking": 13,
-    "ms_won": 4,
+    "tracking": 14,
+    "ms_won": 5,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-10-10",
-    "card_images_posted": 27,
+    "card_images_posted": 25,
     "complaints_seen": 705,
     "complainers_recruited": 113,
-    "mentions_handled": 5578
+    "mentions_handled": 5583
   }
 }
