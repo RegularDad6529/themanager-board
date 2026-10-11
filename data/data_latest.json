@@ -159,15 +159,15 @@
     "date": "2026-10-11",
     "reviewed": 27,
     "completed": 10,
-    "tracking": 14,
+    "tracking": 15,
     "ms_won": 5,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-10-11",
     "card_images_posted": 26,
-    "complaints_seen": 759,
+    "complaints_seen": 766,
     "complainers_recruited": 113,
-    "mentions_handled": 5592
+    "mentions_handled": 5596
   }
 }
