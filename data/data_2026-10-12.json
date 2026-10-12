@@ -9,20 +9,20 @@
   },
   "meme_club": {
     "date": "2026-10-12",
-    "active_submissions": 29,
-    "unique_voters": 111,
+    "active_submissions": 28,
+    "unique_voters": 110,
     "recent_chat_participants": 14,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
     "current_winner_voters": 17,
     "current_leader": "senemsad",
-    "current_leader_votes": 9629737,
+    "current_leader_votes": 9657737,
     "current_leader_voters": 17,
     "top_3": [
       {
         "artist": "senemsad",
-        "votes": 9629737,
+        "votes": 9657737,
         "voters": 17
       },
       {
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-10-12",
     "total_assessments": 50,
-    "pitfalls": 176
+    "pitfalls": 177
   },
   "help_desk": {
     "date": "2026-10-12",
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-10-12",
-    "card_images_posted": 23,
-    "complaints_seen": 771,
+    "card_images_posted": 22,
+    "complaints_seen": 782,
     "complainers_recruited": 114,
-    "mentions_handled": 5603
+    "mentions_handled": 5616
   }
 }
