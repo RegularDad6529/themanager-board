@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-10-13",
     "total_assessments": 50,
-    "pitfalls": 177
+    "pitfalls": 178
   },
   "help_desk": {
     "date": "2026-10-13",
@@ -159,15 +159,15 @@
     "date": "2026-10-13",
     "reviewed": 27,
     "completed": 10,
-    "tracking": 15,
-    "ms_won": 5,
+    "tracking": 16,
+    "ms_won": 6,
     "memes_tracked": 16
   },
   "complaints": {
     "date": "2026-10-13",
-    "card_images_posted": 21,
+    "card_images_posted": 20,
     "complaints_seen": 782,
-    "complainers_recruited": 114,
-    "mentions_handled": 5622
+    "complainers_recruited": 115,
+    "mentions_handled": 5632
   }
 }
