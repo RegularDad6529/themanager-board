@@ -1,9 +1,9 @@
 {
   "giphy": {
     "date": "2026-10-14",
-    "channel_uploads": "358",
+    "channel_uploads": "360",
     "channel_views": "17.5M",
-    "local_meme_cards": 338,
+    "local_meme_cards": 340,
     "local_complaint_cards": 20,
     "approval_gifs": 24
   },
@@ -166,8 +166,8 @@
   "complaints": {
     "date": "2026-10-14",
     "card_images_posted": 19,
-    "complaints_seen": 786,
+    "complaints_seen": 792,
     "complainers_recruited": 115,
-    "mentions_handled": 5638
+    "mentions_handled": 5663
   }
 }
