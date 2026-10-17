@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-10-17",
     "total_assessments": 50,
-    "pitfalls": 178
+    "pitfalls": 182
   },
   "help_desk": {
     "date": "2026-10-17",
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-10-17",
-    "card_images_posted": 13,
+    "card_images_posted": 14,
     "complaints_seen": 813,
     "complainers_recruited": 116,
-    "mentions_handled": 5695
+    "mentions_handled": 5708
   }
 }
