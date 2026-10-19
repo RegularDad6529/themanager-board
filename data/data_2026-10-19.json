@@ -10,25 +10,25 @@
   "meme_club": {
     "date": "2026-10-19",
     "active_submissions": 27,
-    "unique_voters": 113,
+    "unique_voters": 117,
     "recent_chat_participants": 11,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 5,
-    "current_leader": "Jaen",
-    "current_leader_votes": 7865084,
-    "current_leader_voters": 5,
+    "current_winner_voters": 10,
+    "current_leader": "amanrasouli",
+    "current_leader_votes": 8960014,
+    "current_leader_voters": 10,
     "top_3": [
+      {
+        "artist": "amanrasouli",
+        "votes": 8960014,
+        "voters": 10
+      },
       {
         "artist": "Jaen",
         "votes": 7865084,
         "voters": 5
-      },
-      {
-        "artist": "amanrasouli",
-        "votes": 6259944,
-        "voters": 9
       },
       {
         "artist": "demonego",
@@ -166,8 +166,8 @@
   "complaints": {
     "date": "2026-10-19",
     "card_images_posted": 16,
-    "complaints_seen": 834,
+    "complaints_seen": 840,
     "complainers_recruited": 117,
-    "mentions_handled": 5723
+    "mentions_handled": 5731
   }
 }
