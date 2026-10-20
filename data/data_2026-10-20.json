@@ -10,24 +10,24 @@
   "meme_club": {
     "date": "2026-10-20",
     "active_submissions": 27,
-    "unique_voters": 117,
+    "unique_voters": 114,
     "recent_chat_participants": 11,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
     "current_winner_voters": 10,
     "current_leader": "amanrasouli",
-    "current_leader_votes": 8960014,
+    "current_leader_votes": 8372404,
     "current_leader_voters": 10,
     "top_3": [
       {
         "artist": "amanrasouli",
-        "votes": 8960014,
+        "votes": 8372404,
         "voters": 10
       },
       {
         "artist": "Jaen",
-        "votes": 7865084,
+        "votes": 7806323,
         "voters": 5
       },
       {
@@ -152,8 +152,11 @@
     "total_jobs": 52,
     "active": 42,
     "paused": 10,
-    "errors": 0,
-    "error_names": []
+    "errors": 2,
+    "error_names": [
+      "PR Monitor (both PRs, with bot comments)",
+      "Shillandia new drops scanner"
+    ]
   },
   "do_something": {
     "date": "2026-10-20",
@@ -166,8 +169,8 @@
   "complaints": {
     "date": "2026-10-20",
     "card_images_posted": 16,
-    "complaints_seen": 840,
+    "complaints_seen": 847,
     "complainers_recruited": 117,
-    "mentions_handled": 5731
+    "mentions_handled": 5733
   }
 }
