@@ -11,7 +11,7 @@
     "date": "2026-10-31",
     "active_submissions": 30,
     "unique_voters": 98,
-    "recent_chat_participants": 13,
+    "recent_chat_participants": 12,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-10-31",
     "total_assessments": 50,
-    "pitfalls": 191
+    "pitfalls": 195
   },
   "help_desk": {
     "date": "2026-10-31",
@@ -157,7 +157,7 @@
   },
   "do_something": {
     "date": "2026-10-31",
-    "reviewed": 29,
+    "reviewed": 30,
     "completed": 10,
     "tracking": 17,
     "ms_won": 6,
@@ -166,8 +166,8 @@
   "complaints": {
     "date": "2026-10-31",
     "card_images_posted": 17,
-    "complaints_seen": 1128,
+    "complaints_seen": 1134,
     "complainers_recruited": 124,
-    "mentions_handled": 5949
+    "mentions_handled": 5958
   }
 }
