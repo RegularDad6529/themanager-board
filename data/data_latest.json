@@ -150,8 +150,8 @@
   "cron": {
     "date": "2026-11-01",
     "total_jobs": 52,
-    "active": 40,
-    "paused": 12,
+    "active": 41,
+    "paused": 11,
     "errors": 0,
     "error_names": []
   },
@@ -166,8 +166,8 @@
   "complaints": {
     "date": "2026-11-01",
     "card_images_posted": 17,
-    "complaints_seen": 1138,
+    "complaints_seen": 1141,
     "complainers_recruited": 124,
-    "mentions_handled": 5962
+    "mentions_handled": 5978
   }
 }
