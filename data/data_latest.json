@@ -9,22 +9,17 @@
   },
   "meme_club": {
     "date": "2026-11-02",
-    "active_submissions": 30,
-    "unique_voters": 98,
+    "active_submissions": 29,
+    "unique_voters": 95,
     "recent_chat_participants": 12,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 3,
-    "current_leader": "Teyhu",
-    "current_leader_votes": 8006529,
-    "current_leader_voters": 3,
+    "current_winner_voters": 6,
+    "current_leader": "Jaen",
+    "current_leader_votes": 7817013,
+    "current_leader_voters": 6,
     "top_3": [
-      {
-        "artist": "Teyhu",
-        "votes": 8006529,
-        "voters": 3
-      },
       {
         "artist": "Jaen",
         "votes": 7817013,
@@ -34,6 +29,11 @@
         "artist": "demonego",
         "votes": 4571755,
         "voters": 12
+      },
+      {
+        "artist": "Danielbin",
+        "votes": 3906529,
+        "voters": 3
       }
     ]
   },
@@ -140,7 +140,7 @@
   "vetting": {
     "date": "2026-11-02",
     "total_assessments": 50,
-    "pitfalls": 195
+    "pitfalls": 197
   },
   "help_desk": {
     "date": "2026-11-02",
@@ -166,8 +166,8 @@
   "complaints": {
     "date": "2026-11-02",
     "card_images_posted": 16,
-    "complaints_seen": 1152,
+    "complaints_seen": 1162,
     "complainers_recruited": 126,
-    "mentions_handled": 5988
+    "mentions_handled": 5995
   }
 }
