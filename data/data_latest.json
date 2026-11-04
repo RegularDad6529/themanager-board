@@ -1,16 +1,16 @@
 {
   "giphy": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "channel_uploads": "363",
-    "channel_views": "21.7M",
+    "channel_views": "21.9M",
     "local_meme_cards": 343,
     "local_complaint_cards": 20,
     "approval_gifs": 25
   },
   "meme_club": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "active_submissions": 30,
-    "unique_voters": 100,
+    "unique_voters": 101,
     "recent_chat_participants": 12,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -26,19 +26,19 @@
         "voters": 6
       },
       {
+        "artist": "Soliiiart",
+        "votes": 6765438,
+        "voters": 3
+      },
+      {
         "artist": "demonego",
         "votes": 4571755,
         "voters": 12
-      },
-      {
-        "artist": "Danielbin",
-        "votes": 3907286,
-        "voters": 4
       }
     ]
   },
   "shill_watch": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "total_shills_caught": 69,
     "by_author": {
       "GarryB1rd": 7,
@@ -138,17 +138,17 @@
     }
   },
   "vetting": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "total_assessments": 50,
     "pitfalls": 197
   },
   "help_desk": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "help_desk_tickets": 2,
     "help_desk_people": 2
   },
   "cron": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "total_jobs": 52,
     "active": 41,
     "paused": 11,
@@ -156,7 +156,7 @@
     "error_names": []
   },
   "do_something": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "reviewed": 32,
     "completed": 10,
     "tracking": 17,
@@ -164,10 +164,10 @@
     "memes_tracked": 16
   },
   "complaints": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "card_images_posted": 15,
     "complaints_seen": 1181,
-    "complainers_recruited": 127,
-    "mentions_handled": 6019
+    "complainers_recruited": 128,
+    "mentions_handled": 6026
   }
 }
