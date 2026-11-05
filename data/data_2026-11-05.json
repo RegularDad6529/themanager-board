@@ -10,7 +10,7 @@
   "meme_club": {
     "date": "2026-11-05",
     "active_submissions": 31,
-    "unique_voters": 104,
+    "unique_voters": 103,
     "recent_chat_participants": 13,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -157,7 +157,7 @@
   },
   "do_something": {
     "date": "2026-11-05",
-    "reviewed": 33,
+    "reviewed": 34,
     "completed": 10,
     "tracking": 17,
     "ms_won": 6,
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-11-05",
-    "card_images_posted": 13,
-    "complaints_seen": 1201,
+    "card_images_posted": 12,
+    "complaints_seen": 1206,
     "complainers_recruited": 129,
-    "mentions_handled": 6057
+    "mentions_handled": 6079
   }
 }
