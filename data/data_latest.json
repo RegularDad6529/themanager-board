@@ -1,16 +1,16 @@
 {
   "giphy": {
     "date": "2026-11-06",
-    "channel_uploads": "364",
+    "channel_uploads": "367",
     "channel_views": "22.3M",
-    "local_meme_cards": 344,
+    "local_meme_cards": 347,
     "local_complaint_cards": 20,
     "approval_gifs": 25
   },
   "meme_club": {
     "date": "2026-11-06",
     "active_submissions": 31,
-    "unique_voters": 103,
+    "unique_voters": 108,
     "recent_chat_participants": 13,
     "current_winner": "N/A",
     "current_winner_votes": 0,
@@ -157,7 +157,7 @@
   },
   "do_something": {
     "date": "2026-11-06",
-    "reviewed": 34,
+    "reviewed": 35,
     "completed": 10,
     "tracking": 17,
     "ms_won": 6,
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-11-06",
-    "card_images_posted": 12,
-    "complaints_seen": 1209,
+    "card_images_posted": 11,
+    "complaints_seen": 1227,
     "complainers_recruited": 129,
-    "mentions_handled": 6103
+    "mentions_handled": 6117
   }
 }
