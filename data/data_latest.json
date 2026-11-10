@@ -9,26 +9,26 @@
   },
   "meme_club": {
     "date": "2026-11-10",
-    "active_submissions": 30,
-    "unique_voters": 112,
+    "active_submissions": 31,
+    "unique_voters": 111,
     "recent_chat_participants": 14,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 5,
-    "current_leader": "Soliiiart",
-    "current_leader_votes": 8156373,
-    "current_leader_voters": 5,
+    "current_winner_voters": 6,
+    "current_leader": "Jaen",
+    "current_leader_votes": 7809323,
+    "current_leader_voters": 6,
     "top_3": [
-      {
-        "artist": "Soliiiart",
-        "votes": 8156373,
-        "voters": 5
-      },
       {
         "artist": "Jaen",
         "votes": 7809323,
         "voters": 6
+      },
+      {
+        "artist": "Soliiiart",
+        "votes": 6765438,
+        "voters": 3
       },
       {
         "artist": "demonego",
@@ -149,15 +149,15 @@
   },
   "cron": {
     "date": "2026-11-10",
-    "total_jobs": 56,
-    "active": 45,
+    "total_jobs": 57,
+    "active": 46,
     "paused": 11,
     "errors": 0,
     "error_names": []
   },
   "do_something": {
     "date": "2026-11-10",
-    "reviewed": 39,
+    "reviewed": 40,
     "completed": 10,
     "tracking": 17,
     "ms_won": 6,
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-11-10",
-    "card_images_posted": 20,
-    "complaints_seen": 1287,
-    "complainers_recruited": 132,
-    "mentions_handled": 6237
+    "card_images_posted": 22,
+    "complaints_seen": 1296,
+    "complainers_recruited": 133,
+    "mentions_handled": 6260
   }
 }
