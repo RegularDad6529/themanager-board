@@ -1,6 +1,6 @@
 {
   "giphy": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "channel_uploads": "368",
     "channel_views": "22.8M",
     "local_meme_cards": 348,
@@ -8,7 +8,7 @@
     "approval_gifs": 25
   },
   "meme_club": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "active_submissions": 30,
     "unique_voters": 112,
     "recent_chat_participants": 14,
@@ -38,7 +38,7 @@
     ]
   },
   "shill_watch": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "total_shills_caught": 69,
     "by_author": {
       "GarryB1rd": 7,
@@ -138,17 +138,17 @@
     }
   },
   "vetting": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "total_assessments": 50,
     "pitfalls": 200
   },
   "help_desk": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "help_desk_tickets": 2,
     "help_desk_people": 2
   },
   "cron": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "total_jobs": 56,
     "active": 45,
     "paused": 11,
@@ -156,7 +156,7 @@
     "error_names": []
   },
   "do_something": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "reviewed": 39,
     "completed": 10,
     "tracking": 17,
@@ -164,10 +164,10 @@
     "memes_tracked": 16
   },
   "complaints": {
-    "date": "2026-11-09",
-    "card_images_posted": 16,
-    "complaints_seen": 1262,
-    "complainers_recruited": 130,
-    "mentions_handled": 6211
+    "date": "2026-11-10",
+    "card_images_posted": 20,
+    "complaints_seen": 1287,
+    "complainers_recruited": 132,
+    "mentions_handled": 6237
   }
 }
