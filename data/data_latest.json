@@ -1,6 +1,6 @@
 {
   "giphy": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "channel_uploads": "370",
     "channel_views": "23.6M",
     "local_meme_cards": 350,
@@ -8,7 +8,7 @@
     "approval_gifs": 25
   },
   "meme_club": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "active_submissions": 34,
     "unique_voters": 120,
     "recent_chat_participants": 15,
@@ -38,7 +38,7 @@
     ]
   },
   "shill_watch": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "total_shills_caught": 69,
     "by_author": {
       "GarryB1rd": 7,
@@ -138,27 +138,25 @@
     }
   },
   "vetting": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "total_assessments": 50,
     "pitfalls": 202
   },
   "help_desk": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "help_desk_tickets": 2,
     "help_desk_people": 2
   },
   "cron": {
-    "date": "2026-11-13",
-    "total_jobs": 63,
+    "date": "2026-11-14",
+    "total_jobs": 64,
     "active": 52,
-    "paused": 11,
-    "errors": 1,
-    "error_names": [
-      "Missionary Daily Review"
-    ]
+    "paused": 12,
+    "errors": 0,
+    "error_names": []
   },
   "do_something": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "reviewed": 42,
     "completed": 10,
     "tracking": 17,
@@ -166,10 +164,10 @@
     "memes_tracked": 16
   },
   "complaints": {
-    "date": "2026-11-13",
-    "card_images_posted": 35,
-    "complaints_seen": 1381,
+    "date": "2026-11-14",
+    "card_images_posted": 37,
+    "complaints_seen": 1398,
     "complainers_recruited": 135,
-    "mentions_handled": 6345
+    "mentions_handled": 6348
   }
 }
