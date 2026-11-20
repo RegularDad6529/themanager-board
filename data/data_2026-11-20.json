@@ -9,17 +9,22 @@
   },
   "meme_club": {
     "date": "2026-11-20",
-    "active_submissions": 35,
-    "unique_voters": 124,
+    "active_submissions": 36,
+    "unique_voters": 129,
     "recent_chat_participants": 16,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 7,
-    "current_leader": "Jaen",
-    "current_leader_votes": 7764496,
-    "current_leader_voters": 7,
+    "current_winner_voters": 5,
+    "current_leader": "Tharwin",
+    "current_leader_votes": 7958710,
+    "current_leader_voters": 5,
     "top_3": [
+      {
+        "artist": "Tharwin",
+        "votes": 7958710,
+        "voters": 5
+      },
       {
         "artist": "Jaen",
         "votes": 7764496,
@@ -27,13 +32,8 @@
       },
       {
         "artist": "Soliiiart",
-        "votes": 6765904,
+        "votes": 6767256,
         "voters": 4
-      },
-      {
-        "artist": "demonego",
-        "votes": 4645603,
-        "voters": 13
       }
     ]
   },
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-11-20",
-    "card_images_posted": 53,
-    "complaints_seen": 1461,
+    "card_images_posted": 52,
+    "complaints_seen": 1475,
     "complainers_recruited": 140,
-    "mentions_handled": 6484
+    "mentions_handled": 6494
   }
 }
