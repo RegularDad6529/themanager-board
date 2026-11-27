@@ -1,30 +1,25 @@
 {
   "giphy": {
     "date": "2026-11-27",
-    "channel_uploads": "372",
+    "channel_uploads": "374",
     "channel_views": "26M",
-    "local_meme_cards": 352,
+    "local_meme_cards": 354,
     "local_complaint_cards": 20,
     "approval_gifs": 25
   },
   "meme_club": {
     "date": "2026-11-27",
-    "active_submissions": 35,
-    "unique_voters": 127,
+    "active_submissions": 34,
+    "unique_voters": 121,
     "recent_chat_participants": 14,
     "current_winner": "N/A",
     "current_winner_votes": 0,
     "current_winner_title": "",
-    "current_winner_voters": 6,
-    "current_leader": "Tharwin",
-    "current_leader_votes": 8958710,
-    "current_leader_voters": 6,
+    "current_winner_voters": 7,
+    "current_leader": "Jaen",
+    "current_leader_votes": 7764496,
+    "current_leader_voters": 7,
     "top_3": [
-      {
-        "artist": "Tharwin",
-        "votes": 8958710,
-        "voters": 6
-      },
       {
         "artist": "Jaen",
         "votes": 7764496,
@@ -34,6 +29,11 @@
         "artist": "Soliiiart",
         "votes": 7517256,
         "voters": 5
+      },
+      {
+        "artist": "demonego",
+        "votes": 4645603,
+        "voters": 13
       }
     ]
   },
@@ -165,9 +165,9 @@
   },
   "complaints": {
     "date": "2026-11-27",
-    "card_images_posted": 31,
-    "complaints_seen": 1511,
+    "card_images_posted": 33,
+    "complaints_seen": 1516,
     "complainers_recruited": 143,
-    "mentions_handled": 6640
+    "mentions_handled": 6651
   }
 }
